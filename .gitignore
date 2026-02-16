@@ -1,0 +1,13 @@
+# Keep local historical/raw material out of version control
+old/
+material_complemetario/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+*.tmp
+~$*.docx
+
+# Python cache
+__pycache__/
+*.pyc
