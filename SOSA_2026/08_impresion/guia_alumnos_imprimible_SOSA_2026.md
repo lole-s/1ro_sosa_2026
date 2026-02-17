@@ -1,10 +1,10 @@
 # GUIA DE ALUMNOS IMPRIMIBLE
 ## Sistemas Operativos y Software de Aplicaciones (SOSA)
 
-- Curso: 1er ano
+- Curso: 1er año
 - Ciclo lectivo: 2026
 
-Este cuadernillo organiza las actividades de todo el ano.
+Este cuadernillo organiza las actividades de todo el año.
 
 \newpage
 
@@ -227,7 +227,7 @@ Titulo sugerido: Mi puesto digital seguro y organizado
 - Exposicion final por equipos.
 - Autoevaluacion y cierre.
 
-## Autoevaluacion final del ano
+## Autoevaluacion final del año
 Marca del 1 al 5:
 - Comprendo como funciona una computadora.
 - Puedo organizar informacion digital.

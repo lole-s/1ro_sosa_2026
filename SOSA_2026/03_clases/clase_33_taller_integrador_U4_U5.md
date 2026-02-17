@@ -7,7 +7,7 @@
 Integrar produccion digital y ciudadania en una campana breve.
 
 ## Inicio (10 min)
-- Presentacion de consigna: "Uso responsable de la tecnologia en 1er ano".
+- Presentacion de consigna: "Uso responsable de la tecnologia en 1er año".
 
 ## Desarrollo (80 min)
 - Equipos producen:

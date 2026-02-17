@@ -16,7 +16,7 @@ Titulo sugerido: Mi puesto digital seguro y organizado
 - Exposicion final por equipos.
 - Autoevaluacion y cierre.
 
-## Autoevaluacion final del ano
+## Autoevaluacion final del año
 Marca del 1 al 5:
 - Comprendo como funciona una computadora.
 - Puedo organizar informacion digital.

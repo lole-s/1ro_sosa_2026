@@ -17,7 +17,7 @@ Comunicar el proyecto final y cerrar el recorrido anual con reflexion sobre apre
 ## Cierre (30 min)
 - Autoevaluacion anual individual.
 - Devolucion general del curso.
-- Cierre con acuerdos para continuidad en 2do ano.
+- Cierre con acuerdos para continuidad en 2do año.
 
 ## Con notebook
 - Exposicion con soporte digital.

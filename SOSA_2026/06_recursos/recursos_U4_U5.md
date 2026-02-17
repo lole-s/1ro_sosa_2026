@@ -5,7 +5,7 @@
 - Material historico del repo SOSA (guia Canva).
 
 ## Recursos para U5
-- Casos de ciudadania digital (adaptados a 11-12 anos).
+- Casos de ciudadania digital (adaptados a 11-12 años).
 - Material complementario NTICx (uso responsable, seguridad, ergonomia).
 
 ## Recomendaciones didacticas

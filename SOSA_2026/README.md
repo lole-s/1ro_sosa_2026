@@ -1,11 +1,11 @@
-# SOSA 2026 - 1er ano
+# SOSA 2026 - 1er año
 
 Espacio curricular: Sistemas Operativos y Software de Aplicacion (SOSA)
 
-Curso: 1er ano (11-12 anos)  
+Curso: 1er año (11-12 años)  
 Carga horaria: 2 hs semanales  
 Formato: Taller  
-Articulacion: Tecnologia (1er ano)
+Articulacion: Tecnologia (1er año)
 
 ## Proposito
 Este repositorio organiza la planificacion docente y la guia de estudiantes para 2026, contemplando escenarios con y sin notebook.

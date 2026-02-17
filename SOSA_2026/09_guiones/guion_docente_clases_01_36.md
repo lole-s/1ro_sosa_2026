@@ -720,10 +720,10 @@ Este documento reune, clase por clase (01 a 36), un guion operativo con objetivo
 
 ## Clase 35 - Proyecto integrador final (produccion)
 
-**Objetivo de aprendizaje**: Integrar contenidos del ano en un producto final aplicable al contexto escolar.
+**Objetivo de aprendizaje**: Integrar contenidos del año en un producto final aplicable al contexto escolar.
 
 **Enunciado docente sugerido**:
-- Hoy vamos a trabajar "Proyecto integrador final (produccion)". El objetivo es: Integrar contenidos del ano en un producto final aplicable al contexto escolar.
+- Hoy vamos a trabajar "Proyecto integrador final (produccion)". El objetivo es: Integrar contenidos del año en un producto final aplicable al contexto escolar.
 - Vamos a empezar con una activacion corta, luego una actividad principal y al final haremos un cierre con evidencia.
 
 **Apertura (inicio)**:

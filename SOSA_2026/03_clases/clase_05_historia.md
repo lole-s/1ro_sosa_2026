@@ -7,7 +7,7 @@
 Reconocer hitos basicos de la evolucion de las computadoras y relacionarlos con cambios en la vida cotidiana.
 
 ## Inicio (15 min)
-- Pregunta disparadora: "Como imaginan una computadora de hace 70 anos?"
+- Pregunta disparadora: "Como imaginan una computadora de hace 70 años?"
 
 ## Desarrollo (70 min)
 - Presentacion breve de 5 hitos (mecanicas, valvulas, transistores, PC, dispositivos moviles).

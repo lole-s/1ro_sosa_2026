@@ -4,7 +4,7 @@
 - Unidad: U6
 
 ## Objetivo
-Integrar contenidos del ano en un producto final aplicable al contexto escolar.
+Integrar contenidos del año en un producto final aplicable al contexto escolar.
 
 ## Inicio (10 min)
 - Recordatorio de requisitos del proyecto y rubrica.

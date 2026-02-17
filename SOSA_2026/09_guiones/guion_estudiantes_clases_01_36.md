@@ -584,7 +584,7 @@ Este cuadernillo resume que haremos en cada clase, con consignas claras y activi
 
 ## Clase 35: Proyecto integrador final (produccion)
 
-**Que vamos a aprender**: Integrar contenidos del ano en un producto final aplicable al contexto escolar.
+**Que vamos a aprender**: Integrar contenidos del año en un producto final aplicable al contexto escolar.
 
 **Consigna de la clase**:
 - Participa de las actividades de "Proyecto integrador final (produccion)" y registra tu trabajo en carpeta o archivo.

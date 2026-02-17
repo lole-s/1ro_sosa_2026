@@ -2,14 +2,14 @@
 
 ## 1. Datos institucionales
 - Espacio curricular: Sistemas Operativos y Software de Aplicacion
-- Curso: 1er ano
+- Curso: 1er año
 - Orientacion: Informatica
 - Formato: Taller
 - Carga horaria: 2 hs semanales
 - Ciclo lectivo: 2026
 
 ## 2. Fundamentacion
-Este espacio propone iniciar a estudiantes de 11-12 anos en la comprension y uso significativo de tecnologias digitales. Se prioriza un enfoque practico y situado, donde los saberes tecnicos se construyen mediante actividades de exploracion, produccion y resolucion de problemas concretos. La propuesta articula con Educacion Tecnologica, integrando mirada sobre sistemas, procesos, impacto social y practicas responsables.
+Este espacio propone iniciar a estudiantes de 11-12 años en la comprension y uso significativo de tecnologias digitales. Se prioriza un enfoque practico y situado, donde los saberes tecnicos se construyen mediante actividades de exploracion, produccion y resolucion de problemas concretos. La propuesta articula con Educacion Tecnologica, integrando mirada sobre sistemas, procesos, impacto social y practicas responsables.
 
 ## 3. Objetivos generales
 1. Comprender el funcionamiento general de una computadora como sistema.
@@ -86,4 +86,4 @@ Proyecto integrador final y cierre anual.
 - Retroalimentacion frecuente y recuperaciones focalizadas.
 
 ## 10. Cierre anual
-El proyecto integrador final "Mi puesto digital seguro y organizado" permite evidenciar aprendizajes tecnicos y actitudinales construidos durante el ano, consolidando una base para la continuidad en 2do ano.
+El proyecto integrador final "Mi puesto digital seguro y organizado" permite evidenciar aprendizajes tecnicos y actitudinales construidos durante el año, consolidando una base para la continuidad en 2do año.

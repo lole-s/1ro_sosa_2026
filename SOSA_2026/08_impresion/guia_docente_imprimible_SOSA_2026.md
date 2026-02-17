@@ -1,11 +1,11 @@
 # GUIA DOCENTE IMPRIMIBLE
 ## Sistemas Operativos y Software de Aplicaciones (SOSA)
 
-- Curso: 1er ano
+- Curso: 1er año
 - Ciclo lectivo: 2026
 - Carga horaria: 2 hs semanales
 - Formato: Taller
-- Articulacion: Educacion Tecnologica 1er ano
+- Articulacion: Educacion Tecnologica 1er año
 
 \newpage
 
@@ -22,16 +22,16 @@
 
 \newpage
 
-# Plan anual 2026 - SOSA 1er ano
+# Plan anual 2026 - SOSA 1er año
 
 ## Datos generales
 - Espacio: Sistemas Operativos y Software de Aplicacion
-- Curso: 1er ano (orientacion Informatica)
+- Curso: 1er año (orientacion Informatica)
 - Carga horaria: 2 hs semanales
 - Formato: Taller
-- Articulacion prioritaria: Tecnologia 1er ano
+- Articulacion prioritaria: Tecnologia 1er año
 
-## Objetivos del ano
+## Objetivos del año
 1. Reconocer componentes fisicos y logicos de un sistema informatico.
 2. Comprender como se representa y organiza la informacion digital.
 3. Usar el sistema operativo para resolver tareas escolares basicas.
@@ -47,7 +47,7 @@
 | 15-22 | U3 Sistema operativo en accion | Arranque, interfaz, archivos/carpetas, rutas, busqueda, orden y guardado | Carpeta digital organizada + checklist de autonomia |
 | 23-29 | U4 Software de aplicacion | Texto, presentacion, imagen basica, formatos y exportacion | Documento + presentacion breve por parejas |
 | 30-34 | U5 Ciudadania y seguridad digital | Contrasenas, higiene digital, huella digital, ergonomia | Campana corta de buenas practicas |
-| 35-36 | U6 Proyecto integrador y cierre | Integracion de saberes de todo el ano | Proyecto final + autoevaluacion |
+| 35-36 | U6 Proyecto integrador y cierre | Integracion de saberes de todo el año | Proyecto final + autoevaluacion |
 
 ## Articulacion con Tecnologia
 - U1: Sistema tecnologico (partes, funciones, insumos, procesos, salidas).
@@ -77,14 +77,14 @@
 
 ## 1. Datos institucionales
 - Espacio curricular: Sistemas Operativos y Software de Aplicacion
-- Curso: 1er ano
+- Curso: 1er año
 - Orientacion: Informatica
 - Formato: Taller
 - Carga horaria: 2 hs semanales
 - Ciclo lectivo: 2026
 
 ## 2. Fundamentacion
-Este espacio propone iniciar a estudiantes de 11-12 anos en la comprension y uso significativo de tecnologias digitales. Se prioriza un enfoque practico y situado, donde los saberes tecnicos se construyen mediante actividades de exploracion, produccion y resolucion de problemas concretos. La propuesta articula con Educacion Tecnologica, integrando mirada sobre sistemas, procesos, impacto social y practicas responsables.
+Este espacio propone iniciar a estudiantes de 11-12 años en la comprension y uso significativo de tecnologias digitales. Se prioriza un enfoque practico y situado, donde los saberes tecnicos se construyen mediante actividades de exploracion, produccion y resolucion de problemas concretos. La propuesta articula con Educacion Tecnologica, integrando mirada sobre sistemas, procesos, impacto social y practicas responsables.
 
 ## 3. Objetivos generales
 1. Comprender el funcionamiento general de una computadora como sistema.
@@ -161,7 +161,7 @@ Proyecto integrador final y cierre anual.
 - Retroalimentacion frecuente y recuperaciones focalizadas.
 
 ## 10. Cierre anual
-El proyecto integrador final "Mi puesto digital seguro y organizado" permite evidenciar aprendizajes tecnicos y actitudinales construidos durante el ano, consolidando una base para la continuidad en 2do ano.
+El proyecto integrador final "Mi puesto digital seguro y organizado" permite evidenciar aprendizajes tecnicos y actitudinales construidos durante el año, consolidando una base para la continuidad en 2do año.
 
 
 \newpage
@@ -396,7 +396,7 @@ Tabla comparativa completa + justificacion del caso practico.
 Reconocer hitos basicos de la evolucion de las computadoras y relacionarlos con cambios en la vida cotidiana.
 
 ## Inicio (15 min)
-- Pregunta disparadora: "Como imaginan una computadora de hace 70 anos?"
+- Pregunta disparadora: "Como imaginan una computadora de hace 70 años?"
 
 ## Desarrollo (70 min)
 - Presentacion breve de 5 hitos (mecanicas, valvulas, transistores, PC, dispositivos moviles).
@@ -1273,7 +1273,7 @@ Plan personal de higiene digital.
 Integrar produccion digital y ciudadania en una campana breve.
 
 ## Inicio (10 min)
-- Presentacion de consigna: "Uso responsable de la tecnologia en 1er ano".
+- Presentacion de consigna: "Uso responsable de la tecnologia en 1er año".
 
 ## Desarrollo (80 min)
 - Equipos producen:
@@ -1335,7 +1335,7 @@ Instrumento U4-U5 resuelto y productos entregados.
 - Unidad: U6
 
 ## Objetivo
-Integrar contenidos del ano en un producto final aplicable al contexto escolar.
+Integrar contenidos del año en un producto final aplicable al contexto escolar.
 
 ## Inicio (10 min)
 - Recordatorio de requisitos del proyecto y rubrica.
@@ -1381,7 +1381,7 @@ Comunicar el proyecto final y cerrar el recorrido anual con reflexion sobre apre
 ## Cierre (30 min)
 - Autoevaluacion anual individual.
 - Devolucion general del curso.
-- Cierre con acuerdos para continuidad en 2do ano.
+- Cierre con acuerdos para continuidad en 2do año.
 
 ## Con notebook
 - Exposicion con soporte digital.
@@ -1410,9 +1410,9 @@ Nombre y apellido: ______________________  Curso: ______  Fecha: ______
 - Respuesta a preguntas simples.
 
 ## Parte C - Reflexion final
-- Que aprendi este ano?
+- Que aprendi este año?
 - Que me resulto mas dificil?
-- Que objetivo me propongo para 2do ano?
+- Que objetivo me propongo para 2do año?
 
 ## Calificacion sugerida
 - 70 por ciento proyecto equipo.
@@ -1594,7 +1594,7 @@ Nombre y apellido: ______________________  Curso: ______  Fecha: ______
 
 \newpage
 
-# Lista de cotejo formativa semanal - SOSA 1er ano
+# Lista de cotejo formativa semanal - SOSA 1er año
 
 Escala sugerida: Logrado (L) / En proceso (EP) / No logrado aun (NL)
 
@@ -1746,7 +1746,7 @@ Escala: 4 Sobresaliente / 3 Adecuado / 2 Basico / 1 Inicial
 ## Recomendaciones de uso
 1. Usar fragmentos de `actividad-tablas-ascii-unicode.md` en clase 13.
 2. Usar tablas de `repaso-resumen.md` para clase 11.
-3. Mantener version simplificada para 1er ano en cada actividad.
+3. Mantener version simplificada para 1er año en cada actividad.
 
 
 \newpage
@@ -1759,7 +1759,7 @@ Escala: 4 Sobresaliente / 3 Adecuado / 2 Basico / 1 Inicial
 - `eje-3-SistemaOperativo/3_4_Presentación_canva_sistemas_operativos.md`
 
 ## Enfoque sugerido
-1. Simplificar vocabulario tecnico para 1er ano.
+1. Simplificar vocabulario tecnico para 1er año.
 2. Priorizar tareas de uso real: interfaz y archivos.
 3. Evaluar por desempeno observable, no solo definiciones.
 
@@ -1773,7 +1773,7 @@ Escala: 4 Sobresaliente / 3 Adecuado / 2 Basico / 1 Inicial
 - Material historico del repo SOSA (guia Canva).
 
 ## Recursos para U5
-- Casos de ciudadania digital (adaptados a 11-12 anos).
+- Casos de ciudadania digital (adaptados a 11-12 años).
 - Material complementario NTICx (uso responsable, seguridad, ergonomia).
 
 ## Recomendaciones didacticas

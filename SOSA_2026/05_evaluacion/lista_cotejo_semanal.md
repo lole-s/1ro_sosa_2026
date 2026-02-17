@@ -1,4 +1,4 @@
-# Lista de cotejo formativa semanal - SOSA 1er ano
+# Lista de cotejo formativa semanal - SOSA 1er año
 
 Escala sugerida: Logrado (L) / En proceso (EP) / No logrado aun (NL)
 

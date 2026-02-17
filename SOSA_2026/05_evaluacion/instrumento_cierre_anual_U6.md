@@ -13,9 +13,9 @@ Nombre y apellido: ______________________  Curso: ______  Fecha: ______
 - Respuesta a preguntas simples.
 
 ## Parte C - Reflexion final
-- Que aprendi este ano?
+- Que aprendi este año?
 - Que me resulto mas dificil?
-- Que objetivo me propongo para 2do ano?
+- Que objetivo me propongo para 2do año?
 
 ## Calificacion sugerida
 - 70 por ciento proyecto equipo.

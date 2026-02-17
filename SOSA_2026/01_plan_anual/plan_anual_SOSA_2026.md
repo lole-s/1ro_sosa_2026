@@ -1,13 +1,13 @@
-# Plan anual 2026 - SOSA 1er ano
+# Plan anual 2026 - SOSA 1er año
 
 ## Datos generales
 - Espacio: Sistemas Operativos y Software de Aplicacion
-- Curso: 1er ano (orientacion Informatica)
+- Curso: 1er año (orientacion Informatica)
 - Carga horaria: 2 hs semanales
 - Formato: Taller
-- Articulacion prioritaria: Tecnologia 1er ano
+- Articulacion prioritaria: Tecnologia 1er año
 
-## Objetivos del ano
+## Objetivos del año
 1. Reconocer componentes fisicos y logicos de un sistema informatico.
 2. Comprender como se representa y organiza la informacion digital.
 3. Usar el sistema operativo para resolver tareas escolares basicas.
@@ -23,7 +23,7 @@
 | 15-22 | U3 Sistema operativo en accion | Arranque, interfaz, archivos/carpetas, rutas, busqueda, orden y guardado | Carpeta digital organizada + checklist de autonomia |
 | 23-29 | U4 Software de aplicacion | Texto, presentacion, imagen basica, formatos y exportacion | Documento + presentacion breve por parejas |
 | 30-34 | U5 Ciudadania y seguridad digital | Contrasenas, higiene digital, huella digital, ergonomia | Campana corta de buenas practicas |
-| 35-36 | U6 Proyecto integrador y cierre | Integracion de saberes de todo el ano | Proyecto final + autoevaluacion |
+| 35-36 | U6 Proyecto integrador y cierre | Integracion de saberes de todo el año | Proyecto final + autoevaluacion |
 
 ## Articulacion con Tecnologia
 - U1: Sistema tecnologico (partes, funciones, insumos, procesos, salidas).

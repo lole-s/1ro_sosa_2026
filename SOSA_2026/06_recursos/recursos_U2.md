@@ -9,4 +9,4 @@
 ## Recomendaciones de uso
 1. Usar fragmentos de `actividad-tablas-ascii-unicode.md` en clase 13.
 2. Usar tablas de `repaso-resumen.md` para clase 11.
-3. Mantener version simplificada para 1er ano en cada actividad.
+3. Mantener version simplificada para 1er año en cada actividad.
