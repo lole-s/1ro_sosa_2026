@@ -1,0 +1,976 @@
+
+
+===== PAGINA 269 =====
+270
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+Secuencia 
+Didáctica 1
+OBJETIVOS
+• Comprender cómo es el funcionamiento 
+básico de la memoria.
+• Diferenciar la memoria rápida de la 
+memoria grande.
+Cuando hablamos de memoria, nos referimos a una serie de 
+componentes físicos que tienen la capacidad de representar 
+información. La secuencia didáctica comienza con una actividad que 
+muestra la organización más básica de la memoria y nos permite 
+reflexionar sobre su contenido. La segunda y última actividad 
+revelan que hay memorias de distinto tipo y que se las puede 
+clasificar de acuerdo con aspectos tales como la velocidad y el 
+tamaño. Se trata de una tarea para que los estudiantes comprueben 
+en sus hogares qué información guardan algunas computadoras en 
+cada tipo de memoria.
+ LA MEMORIA
+
+===== PAGINA 270 =====
+271
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+A 1S D 1
+Actividad 1
+¿Qué hay en 
+la memoria?
+INDIVIDUAL
+OBJETIVOS
+• Representar la memoria como una tira 
+de celdas.
+• Observar que en cada celda de 
+memoria se almacena uno de dos 
+valores posibles.
+• Destacar que la memoria no interpreta 
+el contenido que almacena.
+MATERIALES
+Lápices de colores
+Computadora 
+Conexión a Internet
+Ficha para estudiantes
+DESARROLLO
+En esta actividad retomamos ideas sobre la representación de datos para mostrar 
+que la memoria no le atribuye significado a la información que almacena. Comen-
+zamos repartiéndoles la ficha a los estudiantes, en la que encontrarán la siguiente 
+cuadrícula: 
+0 0 1 1 1 1 0 0 1 0 1 0 0 0 0 0
+0 1 0 1 0 1 0 0 1 1 1 1 0 1 0 0
+1 1 0 0 0 0 1 0 0 0 0 0 1 1 0 1
+1 1 0 1 1 0 1 1 0 0 1 1 0 0 1 0
+0 0 1 1 0 1 1 0 0 1 0 0 1 0 0 0
+1 0 1 0 0 0 0 0 1 1 1 0 1 1 0 1
+Les contamos que lo que observan en la ficha es una representación de la 
+memoria. Si bien (como ya vimos en la secuencia didáctica 1 del capítulo 5) el 
+componente físico utiliza dos niveles de voltaje distintos, para representar los 
+posibles valores de un bit nosotros usamos los símbolos 0 y 1. Les explicamos a los 
+estudiantes: “Vamos a pensar la memoria como una tira de celdas. En cada celda 
+se almacena, o bien un cero, o bien un uno. Los programas, al ejecutarse, tienen 
+la posibilidad de leer el contenido de las celdas y también de modificarlo”. Les 
+preguntamos: “¿Qué información esconden estos números?”. Es probable que no 
+estén en condiciones de responder la pregunta. Les comentamos que a lo largo de 
+esta actividad trataremos de encontrar una respuesta.
+La manipulación de bits suele ser engorrosa. Habitualmente se los agrupa de 
+a 8 y a cada grupo se lo conoce como byte. Con un byte se pueden representar 
+números entre 0 y 255. Les pedimos a los estudiantes que resuelvan la primera 
+consigna de la ficha. Se les pide que escriban el contenido de la memoria como 
+secuencia de bytes. Para facilitar la resolución de esta parte de la tarea, podemos 
+indicarles que usen un conversor de binario a decimal en línea.1 Deberían arribar a 
+los siguientes valores:
+1. Se puede usar, por ejemplo, el conversor disponible en https:/ /goo.gl/C68hEt. Si en el aula no 
+hay acceso a Internet, recomendamos buscar previamente una tabla completa que incluya las 
+representaciones binarias de los números del 0 al 255, e imprimir varias copias para hacer circular 
+entre los estudiantes.
+60 160 84 244 194 13 219 50 54 72 160 237
+
+===== PAGINA 271 =====
+272
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+A 1S D 1
+En el capítulo 5, “Representación de datos”, vimos cómo se puede representar números usando 
+los símbolos 1 y 0, es decir, un sistema binario. Si realizamos las actividades en clase, podemos 
+mencionar el juego de las cartas (ver la secuencia didáctica 1).
+ ¿CÓMO SE TRADUCÍA DE UN SISTEMA A OTRO?
+A continuación , les preguntamos a los estudiantes: “¿Cómo hacen las computadoras para trabajar con 
+colores?”. Es esperable que alguien conteste que usan la codificación RGB. “Efectivamente, es habitual 
+que los programas que manipulan imágenes usen el modelo de color RGB. Recordemos que, en este 
+tipo de codificación, se usan tres bytes para representar un color. Los bytes indican la intensidad con que 
+debe encenderse cada una de las luces que componen un píxel”. 
+Les pedimos que trabajen sobre la segunda consigna de la ficha. Allí se presenta el programa ficticio 
+Coloreame. Este toma datos almacenados en la memoria, los interpreta como cuatro colores codifica-
+dos en RGB y muestra cuatro tiras verticales en la pantalla, una de cada color identificado. Para resolver 
+la consigna, en primer lugar tienen que investigar qué colores representan los números almacenados en 
+la memoria. Deben agrupar los bytes de a tres y, usando alguna aplicación adecuada1, reconocer que se 
+trata de un verde, un amarillo, un rojo y un azul.
+Una vez identificados los colores, los estudiantes 
+tienen que usarlos para pintar las franjas del 
+monitor que se encuentra en la ficha. 
+Cuando hayan completado el desafío, les con-
+tamos que ahora trabajaremos con el programa 
+imaginario T extito. Se trata de una aplicación que 
+lee contenido de la memoria, lo interpreta como 
+texto codificado, lo decodifica y lo muestra en la 
+pantalla. Usa la codificación de letras Letrados 
+que se muestra a continuación.
+1 Por ejemplo, se puede usar la que está disponible en https:/ /goo.gl/Z1z1hj.
+13 244 7 89 72 98 112 75 60 202 66 15 84 219 54
+A B C D E F G H I J K L M N
+178 160 33 214 84 151 39 50 93 67 113 107 57 194 237
+Ñ O P Q R S T U V W X Y Z , .
+(60,160,84)
+(244,194,13)
+(219,50,54)
+(72,160,237)
+
+===== PAGINA 272 =====
+273
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+A 1S D 1
+Les pedimos a los estudiantes que resuelvan la 
+tercera consigna. Tienen que averiguar qué mostra-
+ría T extito si leyese la misma porción de memoria 
+que Coloreame. Es esperable que, luego de unos 
+minutos, descubran el texto: “Hola, mundo”.
+Finalmente, preguntamos a los estudiantes: “En-
+tonces, ¿qué era el contenido almacenado en la 
+memoria?”. A partir de la información brindada en 
+la actividad, no podemos saberlo. Podría tratarse 
+de colores, de texto o de otro tipo de información. 
+Les presentamos la consigna 4: “¿La memoria entiende la información que almacena?”. Guiamos la 
+reflexión de modo tal de concluir que la memoria no les atribuye significado a los datos que almacena. 
+Son los programas los encargados de interpretarlos.
+CIERRE
+A modo de cierre, comentamos con los estudiantes que, en la práctica, a diferencia de lo que sucedió en 
+esta actividad, es muy improbable que dos programas que manipulan información de distinta natu-
+raleza produzcan resultados significativos leyendo la misma porción de memoria. En este ejercicio los 
+valores fueron cuidadosamente escogidos para subrayar que el contenido de la memoria no tiene un 
+significado en sí mismo.
+HOLA, MUNDO.
+
+===== PAGINA 273 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  7  }  l A  m e m o r i A  y  l A  u n i D A D c e n t r A l  D e  p r o c e S Am i e n t o
+SD1/Ficha A1
+QUÉ HAY EN LA 
+MEMORIA?
+0 0 1 1 1 1 0 0 1 0 1 0 0 0 0 0
+0 1 0 1 0 1 0 0 1 1 1 1 0 1 0 0
+1 1 0 0 0 0 1 0 0 0 0 0 1 1 0 1
+1 1 0 1 1 0 1 1 0 0 1 1 0 0 1 0
+0 0 1 1 0 1 1 0 0 1 0 0 1 0 0 0
+1 0 1 0 0 0 0 0 1 1 1 0 1 1 0 1
+1. ¡Trabajar con bits es muy complicado! Agrupalos de a 8 y mostrá el contenido  
+de la memoria como una tira de bytes. Podés usar el conversor disponible en  
+https://goo.gl/C68hEt.
+2. Aquí te presentamos el programa Coloreame. Se trata de una aplicación que lee la memoria, 
+interpreta los valores almacenados como la codificación RGB de cuatro colores, y los usa 
+para pintar cuatro franjas verticales en la pantalla. ¡Tomá lápices de colores y pintá las franjas 
+tal como lo haría Coloreame a partir de los bytes del punto anterior! Para descubrir los 
+colores codificados, podés usar la herramienta disponible en https://goo.gl/Z1z1hj.
+¿Sabías que la memoria es como una larga cinta con 
+casilleros en los que se guarda un 0 o un 1? Mirá, por 
+ejemplo, el siguiente fragmento. ¿Qué información esconde?
+
+===== PAGINA 274 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  7  }  l A  m e m o r i A  y  l A  u n i D A D c e n t r A l  D e  p r o c e S Am i e n t o
+SD1/Ficha A1
+3. ¿Alguna vez escuchaste hablar de Textito? Es un programa que interpreta como texto 
+los datos almacenados en la memoria y los muestra en la pantalla usando el sistema de 
+codificación Letrados:
+4. Entonces, la memoria, ¿puede entender de qué se trata la información que almacena? 
+Tachá lo que no corresponda.
+Escribí en el monitor que aparece abajo el texto que mostraría 
+Textito si leyese los mismos bytes que usaste con Coloreame.
+SÍ NO
+_ _ _ _ _ _ _ _ _ _ _ _
+¡ATENCIÓN! 
+En Letrados, 
+el 13 codifica al 
+espacio en blanco.
+13 244 7 89 72 98 112 75 60 202 66 15 84 219 54
+A B C D E F G H I J K L M N
+178 160 33 214 84 151 39 50 93 67 113 107 57 194 237
+Ñ O P Q R S T U V W X Y Z , .
+
+===== PAGINA 275 =====
+276
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+A 2S D 1
+Actividad 2
+La memoria rápida 
+y la memoria grande
+GRUPAL (4)
+OBJETIVOS
+• Diferenciar memorias volátiles de 
+permanentes. 
+• Distinguir memorias pequeñas de 
+grandes.
+• Discriminar memorias rápidas de lentas.
+MATERIALES
+Papel
+Lápiz
+Ficha para estudiantes
+DESARROLLO
+Comenzamos la actividad preguntando a los estudiantes: “¿Qué pasa si estamos 
+trabajando con una computadora de escritorio y súbitamente se interrumpe el 
+suministro de energía eléctrica? Por ejemplo, si se corta la luz o si accidentalmente 
+pasa corriendo el perro y se lleva por delante el cable”. Guiamos el intercambio con 
+los estudiantes para llegar a la conclusión de que en esos casos, si trabajamos con 
+programas fuera de línea1, es probable que se pierda parte de la información. “Por 
+ejemplo, si estuviésemos escribiendo en un procesador de texto, se perderían los 
+cambios hechos en el documento desde la última vez que lo guardamos”. 
+Les explicamos a los estudiantes que, en esas situaciones, la información que 
+se pierde se encuentra almacenada en la memoria rápida. Como representa 
+valores con niveles de voltaje, para funcionar necesita energía. Sin electricidad, 
+no preserva su contenido. Por este motivo se dice que es una memoria volátil. 
+Usualmente se la conoce como memoria RAM (por el acrónimo del inglés de 
+Random Access Memory).
+1 Programas que no necesitan una conexión a Internet para funcionar.
+Siguiendo con el ejemplo, podemos preguntar: “¿Por qué no se perdieron los 
+cambios previos a la última vez que guardamos el documento?”. Esto se debe a 
+que se encontraban almacenados en la memoria grande. En contraposición a 
+la memoria rápida, los datos que se guardan en ella se conservan aun cuando el 
+componente deja de recibir energía. Por eso se dice que es una memoria persis-
+tente. Para llevar a los estudiantes a un terreno conocido, les comentamos que 
+tanto los discos rígidos como las memorias USB pertenecen a esta clase de me-
+Módulos de memoria RAM
+
+===== PAGINA 276 =====
+277
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+A 2S D 1
+DISPOSITIVO
+SI DESENCHUFO O QUITO LA BATERÍA SIN PREVIO AVISO...
+¿Qué olvida? ¿Qué recuerda?
+Teléfono celular Aplicaciones abiertas, mensaje que 
+estaba mirando en la red social.
+Todos los programas instalados,
+el fondo de pantalla.
+Televisor inteligente Canal que estaba viendo, nivel de 
+volumen y brillo. Canales sintonizados.
+Computadoras de 
+escritorio y portátiles
+Posición del ratón, ventanas 
+abiertas.
+Programas instalados, páginas web 
+visitadas, idioma del teclado.
+Microondas Potencia, tiempo de cocción. Nada.
+Consola de videojuegos Posición en el juego. Juego, mejores puntajes.
+morias. “Nunca enchufamos las memorias USB a la corriente eléctrica y, sin embargo, no perdemos la 
+información que almacenan, ¿se dieron cuenta?”. Les contamos también que existen dispositivos que 
+no cuentan con este tipo de memoria y que, por lo tanto, al desconectarse del suministro de energía, 
+pierden toda la información que estaban utilizando.
+Repartimos la ficha a los estudiantes y les comentamos que se trata de una tarea para el hogar. Tienen 
+que completar una tabla indicando qué información guardan distintos dispositivos computacionales en 
+cada una de las memorias, rápida y grande. Por ejemplo, si le quitamos la batería a un teléfono celular, 
+¿las aplicaciones abiertas continúan abiertas al volver a encenderlo? ¿Qué sucede si pusimos una foto 
+como fondo de pantalla? ¿Sigue apareciendo la foto o muestra el fondo de pantalla que trajo de fábrica? 
+Pueden recopilar información para completar la actividad desenchufando cables y quitando baterías. 
+Es conveniente aclararles que no todos los artefactos de un mismo tipo administran de igual forma la 
+información. Siguiendo con el ejemplo, podría haber teléfonos que recuerden las aplicaciones abiertas aun 
+cuando les saquemos la batería, y otros que no lo hagan. A continuación se exhiben posibles respuestas.
+Disco rígido Memoria USB
+
+===== PAGINA 277 =====
+278
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+A 2S D 1
+Continuamos preguntando: “¿Por qué creen que las memorias de la computadora se clasifican como 
+memoria rápida y memoria grande? ¿Por qué no rápida y lenta o chica y grande?”. Esta clasificación se 
+debe a que hay una relación inversa entre el tamaño de la memoria y el tiempo que nos demanda leer la 
+información que almacena o ingresar en ella nuevos datos. A menor tamaño, mayor velocidad de acceso. 
+A mayor tamaño, menor rapidez.1 
+Para comprender la diferencia entre las velocidades de acceso, se puede usar la siguiente analogía: si la 
+memoria RAM fuera un avión supersónico, un disco rígido sería una bicicleta a toda velocidad y una memoria 
+USB tendría la velocidad de un caracol. Es decir, funcionan en escalas de velocidad totalmente diferentes.
+T ambién hay una relación directa entre la velocidad de la memoria y su precio. Cuanto más rápida, más 
+cara; y cuanto más lenta, más barata. Es por eso que la memoria RAM tiene mucha menos capacidad 
+que un disco rígido, aunque los precios sean parecidos. 
+CIERRE
+Como cierre se puede destacar que, al trabajar en la nube (como, por ejemplo, al hacerlo con editores 
+de texto en línea), no perdemos información cuando el dispositivo se queda sin suministro de energía. 
+Esto se debe a que los datos no se encuentran almacenados en la memoria permanente de nuestras 
+computadoras, sino en la memoria permanente de terceros. Como dice una campaña de la Fundación 
+de Software Libre de Europa: “No hay computación en la nube, hay computadoras de otros”.
+1 La nomenclatura rápida y grande es la que se usaba con la computadora Ferranti Mercury de la década del sesenta. 
+
+===== PAGINA 278 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  7  }  l A  m e m o r i A  y  l A  u n i D A D c e n t r A l  D e  p r o c e S Am i e n t o
+SD1/Ficha A2
+1. Investigá qué información se conserva y cuál se pierde al cortar el 
+suministro de energía de los dispositivos computacionales que 
+tenés en tu casa. A algunos los vas a tener que desenchufar y a 
+otros, sacarles la batería. 
+Las computadoras, por lo general, tienen dos tipos de memoria: 
+la memoria rápida y la memoria grande. Una de las 
+principales diferencias es que la memoria rápida es volátil, 
+lo que significa que la información que almacena se pierde 
+cuando se apaga la computadora. En cambio, la memoria 
+grande es permanente, es decir, conserva la información 
+aunque deje de recibir energía eléctrica.
+LA MEMORIA RÁPIDA 
+Y LA MEMORIA GRANDE
+Cuando guardamos un 
+documento, la computadora 
+copia información de la 
+memoria rápida a la grande. 
+De este modo, podemos 
+recuperar lo hecho incluso 
+si se corta la luz. ¿Sabés 
+por qué el ícono suele 
+ser así? Porque imita la 
+forma que tenían los viejos 
+disquetes (o discos flexibles) 
+que se usaban en las 
+computadoras de los años 
+ochenta. Estos discos eran 
+transportables y permitían 
+almacenar datos ¡desde 79 
+KB hasta 240 MB!
+2. ¡Escribí tus descubrimientos en la tabla!
+¿Sabías que hay una relación entre la volatilidad, 
+el tamaño, la velocidad y el precio de las memorias? 
+DISPOSITIVO
+SI DESENCHUFO O QUITO LA BATERÍA SIN PREVIO AVISO...
+¿Qué olvida? ¿Qué recuerda?
+Teléfono celular
+Televisor inteligente
+Computadoras de escritorio y 
+portátiles
+Microondas
+Consola de videojuegos
+TIPO DE 
+MEMORIA
+¿VOLÁTIL O 
+PERSISTENTE? TAMAÑO VELOCIDAD COSTO
+Rápida Volátil Chica Rápida Cara
+Grande Persistente Grande Lenta Barata
+
+===== PAGINA 279 =====
+280
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+EL FUNCIONAMIENTO 
+INTERNO
+OBJETIVOS
+• Exhibir el funcionamiento interno  
+de una computadora.
+• Mostrar que las computadoras solo 
+ejecutan un conjunto de instrucciones  
+muy simples.
+Esta secuencia didáctica está compuesta por una sola actividad 
+llamada “La máquina criptográfica”. En ella se presenta la arquitectura 
+de una computadora imaginaria y se describe cada uno de sus 
+componentes y sus respectivas funciones. Los componentes del 
+hardware son la memoria rápida, la memoria grande, la unidad 
+central de procesamiento y el puntero de instrucción.
+Luego se simula su funcionamiento interno con un juego de rol, en 
+el que van a participar distintos estudiantes del curso. Debido a la 
+extensión de la actividad, puede hacer falta más de una clase para 
+completarla.
+Secuencia 
+Didáctica 2
+
+===== PAGINA 280 =====
+281
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+Actividad 1
+La máquina 
+criptográfica
+GRUPAL (4)
+OBJETIVOS
+• Emular el funcionamiento de bajo nivel 
+de una computadora.
+• Presentar el funcionamiento de la 
+unidad central de procesamiento.
+MATERIALES
+Tizas o marcador de pizarra
+Borrador
+Cartulina
+Ficha para estudiantes
+DESARROLLO
+En esta actividad presentamos la máquina criptográfica, una computadora 
+especialmente diseñada para poder cifrar mensajes. Mostramos cada uno de sus 
+componentes y explicamos sus funciones. Además, observamos cómo se integran 
+dentro de la arquitectura general de una computadora imaginaria. 
+Comenzamos la actividad repartiendo la ficha a los estudiantes. Allí se encuentra 
+una descripción de la máquina criptográfica. Repasamos con los estudiantes todo 
+lo referente a sus componentes y su funcionamiento. Además, les presentamos 
+las reglas del juego de rol con el que simularán el comportamiento interno de esta 
+particular computadora. Es importante que nos tomemos el tiempo necesario 
+para que los estudiantes tengan un panorama claro sobre lo que harán. Sin un 
+acuerdo en este sentido, difícilmente la actividad pueda llegar a buen puerto. A 
+continuación, se ofrecen descripciones que pueden usarse como disparadores en 
+el intercambio con los estudiantes.
+EL HARDWARE DE LA MÁQUINA CRIPTOGRÁFICA
+1. Memoria rápida 
+La máquina criptográfica tiene dos memorias: una rápida y una grande. La memoria 
+rápida consiste en un único casillero y la representamos como un cuadrado dibujado 
+en el pizarrón. Allí se puede escribir de a un símbolo a la vez. El alfabeto disponible 
+incluye las letras del abecedario, los dígitos del 0 al 9, el espacio, y los signos de 
+exclamación e interrogación, tanto de apertura como de cierre.
+2. Memoria grande
+T ambién podemos dibujarla en el pizarrón. Consiste en una tira de 10 celdas. En ellas 
+se pueden guardar los mismos símbolos que en el casillero de la memoria rápida. 
+Además, el componente tiene un cabezal que siempre se encuentra posicionado sobre 
+una celda. Se puede leer el carácter almacenado en ella o escribir allí uno nuevo. 
+¿ C H O R I Z O S ?O
+C
+A, B, C, D, E, F, G, H, I, J, K, L, M, N, Ñ, O, P, 
+Q, R, S, T, U, V, W, X, Y, Z, 0, 1, 2, 3, 4, 5, 6, 
+7, 8, 9,  , ¡, !, ¿, ? 
+Memoria rápida de un casillero
+Memoria grande
+Alfabeto de la máquina criptográfica
+
+===== PAGINA 281 =====
+282
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+A 1S D 2
+3. Puntero de instrucción
+En el pizarrón deberemos copiar el programa que ejecutará la máquina criptográfica. En esta máquina, un 
+programa es una lista numerada de instrucciones (la descripción de las instrucciones se encuentra más 
+adelante). Las escribiremos en el pizarrón, una debajo de la otra. La computadora cuenta con un puntero 
+de instrucción, que representaremos con una flecha. Siempre apunta a una instrucción, que es la que la 
+máquina tiene que ejecutar.
+1. LEE
+2. SIG
+3. ESC
+4. AVA
+Puntero de instrucción
+4. Unidad central de procesamiento
+Por último, tenemos la unidad central de procesamiento (CPU), que dirige todo el funcionamiento. Es el 
+componente que se encarga de ejecutar una a una las instrucciones de un programa. Para hacerlo, repite 
+lo que se conoce como ciclo de instrucción: (i) lee la instrucción apuntada por el puntero de instrucción; 
+(ii) la ejecuta; y (iii) mueve el puntero para que pase a apuntar a la próxima instrucción que el programa 
+tiene que ejecutar. Estos ciclos se interrumpen solo cuando se ha completado una corrida del programa.
+Dinámica de funcionamiento del juego
+Para poner a funcionar la máquina criptográfica, hace falta que cuatro estudiantes pasen al frente. 
+Cada uno de ellos interpretará un rol y recibirá uno o varios elementos específicos. 
+
+===== PAGINA 282 =====
+283
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+A 1S D 2
+Recomendamos preparar previamente los siguientes elementos para que los estudiantes puedan 
+interpretar cada uno de los roles:
+OBJETOS NECESARIOS PARA EL JUEGO
+Las tareas correspondientes al rol que desempeñará cada estudiante son las siguientes: 
+1. Puntero de instrucción: debe sostener la flecha que representa el puntero de instrucción. Al comenzar 
+la ejecución de un programa, debe señalar la primera instrucción. 
+2. Unidad central de procesamiento: su función es ir haciendo avanzar sucesivas veces el ciclo de instruc-
+ción. Cada vez, debe (i) consultar al puntero de instrucción cuál es la instrucción del programa que tiene 
+que ejecutarse; (ii) dar indicaciones al resto de los componentes para llevarla a cabo; y (iii) indicarle al 
+puntero de instrucción a dónde apuntar, de forma tal de que quede señalando la próxima instrucción del 
+programa que tiene que ejecutarse. 
+3. Memoria rápida: siguiendo las instrucciones que recibe de la unidad central de procesamiento, lee el 
+contenido del casillero o escribe allí un nuevo símbolo. 
+4. Memoria grande: su tarea consiste en desplazar el cabezal y leer y escribir símbolos en las celdas. Siempre 
+debe hacerlo siguiendo instrucciones impartidas por quien interprete el rol de la unidad central de procesamien-
+to. Al comenzar una ejecución, el cabezal tiene que estar sobre la celda ubicada en el extremo izquierdo.
+Flecha de cartulina 
+para apuntar 
+instrucción
+Marcador o tiza
+(según tipo 
+de pizarrón)
+Marcador o tiza 
++ borrador
+Borrador
+Cabezal para indicar 
+celda (puede ser 
+una vara, un rollo de 
+cartulina, etc.)
+PUNTERO DE 
+INSTRUCCIÓN
+MEMORIA RÁPIDA MEMORIA GRANDE
+Rollo de cartulina  a 
+modo de megáfono
+UNIDAD 
+CENTRAL 
+PROCESAMIENTO
+
+
+===== PAGINA 283 =====
+284
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+A 1S D 2
+El conjunto de instrucciones
+Estas son las instrucciones que pueden formar parte de los programas de la máquina criptográfica.
+AVA
+Mueve el cabezal de la memoria grande una posición 
+hacia la derecha. Si el cabezal se encuentra en la 
+última celda, vuelve a posicionarse sobre la primera. 
+ESC
+Escribe en la memoria rápida el contenido de la celda 
+de la memoria grande apuntada por el cabezal.
+LEE
+Lee el contenido de la memoria rápida y lo escribe 
+en la celda de la memoria grande apuntada por el 
+cabezal.
+SIG
+Reemplaza el símbolo de la memoria rápida por 
+el siguiente, de acuerdo con el orden del alfabeto 
+que usa la máquina. Al aplicarlo sobre el símbolo 
+?, el contenido pasa a ser A.
+ANT
+Reemplaza el símbolo de la memoria rápida por el 
+anterior, de acuerdo con el orden del alfabeto que 
+usa la máquina. Al aplicarlo sobre el símbolo A, el 
+contenido pasa a ser ?.
+SAL [nro de línea]
+Hace apuntar al puntero de instrucción hacia la 
+línea nro de línea, que es un parámetro de la 
+instrucción.
+SI MR = [valor] SAL [nro de línea]
+Si el contenido de la memoria rápida es valor, 
+hace apuntar al puntero de instrucción a la línea 
+nro de línea.
+ALT
+T ermina la ejecución del programa.
+Puntero de instrucción
+Unidad central 
+de procesamiento
+Memoria rápida
+Memoria 
+grande
+
+===== PAGINA 284 =====
+285
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+A 1S D 2
+Una vez que todo el grupo haya comprendido las características de la máquina criptográfica, pasamos 
+a realizar las consignas de la ficha de la actividad. En ellas hay distintos programas que serán emulados 
+por los grupos de estudiantes. Sugerimos que cada programa sea resuelto por un grupo distinto, de 
+forma tal de que varios tengan la oportunidad tanto de interpretar a un componente de la máquina 
+como de ser testigos oculares de la ejecución de un programa llevada a cabo por otros. Mirar la máquina 
+desde afuera da una buena perspectiva sobre cómo funciona internamente una computadora.
+ 
+Primera ejecución
+La primera consigna presenta el programa Encripto 2. Al ejecutarse, modifica el contenido de las dos pri-
+meras posiciones de la memoria grande. Reemplaza lo almacenado en cada celda por el símbolo siguiente 
+de acuerdo con el orden del alfabeto usado en la actividad. Por lo tanto, hace que la máquina criptográfica 
+ejecute el algoritmo César estudiado en el capítulo 1, esta vez sobre mensajes de dos símbolos. 
+Como vimos en la secuencia didáctica 3 del capítulo 1, “Ciudadanía digital y seguridad”, existe 
+una técnica para enviar mensajes secretos llamada cifrado César o cifrado de desplazamiento. 
+En esta técnica se sustituye una letra por otra que se encuentra más adelante en el alfabeto, 
+según el desplazamiento elegido. Por ejemplo, usando un desplazamiento de una sola posición, 
+la A se reemplaza por la B, la B por la C y así sucesivamente.
+ PARA REFRESCAR EL MÉTODO DE CIFRADO CÉSAR
+Copiamos en el pizarrón el siguiente programa:
+1 ESC  5 ESC
+2 SIG  6 SIG
+3 LEE  7 LEE
+4 AVA  8 AVA
+  9 ALT
+Inicialmente, en la memoria grande se encuentra escrita la palabra ÑU seguida de ocho espacios en 
+blanco. Por su parte, el cabezal se encuentra sobre la celda que almacena la Ñ.
+ 
+Ñ U
+Al finalizar una ejecución, el contenido original de la primera celda habrá sido reemplazado por el sím-
+bolo O y el de la segunda, por V. El resto se mantendrá inalterado.
+Los lenguajes de máquina provistos por computadoras reales están compuestos por unas pocas 
+instrucciones, cada una de ellas de tres letras. Por tal motivo, en esta actividad usamos esa misma 
+cantidad de letras para el nombre de cada instrucción.
+INSTRUCCIONES DE LOS LENGUAJES DE MÁQUINA
+Ñ
+
+===== PAGINA 285 =====
+286
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+A 1S D 2
+Hacemos pasar a cuatro estudiantes al frente y le asignamos un rol a cada uno. El primero debe sostener la 
+flecha del puntero de instrucción, que comenzará apuntando a la primera instrucción. Otro tiene que leer y 
+escribir la memoria rápida, que al empezar contiene un espacio en blanco. El tercero debe representar a la 
+memoria grande manipulando el cabezal, que al iniciar un programa se encuentra posicionado sobre la cel-
+da del extremo izquierdo. Además, a medida que avance el juego, irá leyendo y escribiendo celdas siguiendo 
+instrucciones impartidas por quien asuma el rol de la unidad central de procesamiento. Es conveniente que 
+este último tenga a mano la ficha con la descripción del lenguaje de la máquina criptográfica para chequear 
+rápidamente qué es lo que hace cada instrucción.
+Para dar comienzo a la ejecución del programa, el estudiante que interpreta a la unidad central de proce-
+samiento le pregunta al puntero de instrucción qué instrucción del programa tiene que ejecutarse. En este 
+caso, recibe como respuesta: “La instrucción actual es ESC”. A continuación, le pregunta a quien repre-
+senta el rol de la memoria grande: “¿Qué hay en la celda bajo el cabezal?”. La memoria grande contesta: 
+“La letra Ñ”. Luego, le dice a la memoria rápida: “Vos, escribí una Ñ.” El participante que actúa de memoria 
+rápida escribe entonces el símbolo Ñ en la memoria monoceldaica. Finalmente, quien dirige la ejecución 
+pide a quien interpreta al puntero de instrucción que señale la siguiente línea del programa. Con esto, 
+completamos el primer ciclo de instrucción. O sea, llevamos a cabo la ejecución de la primera instrucción 
+de Encripto 2.
+Estado inicial de la máquina criptográfica
+
+===== PAGINA 286 =====
+287
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+Estado de la máquina criptográfica luego de completar el primer ciclo de instrucción
+A 1S D 2
+
+===== PAGINA 287 =====
+288
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+El segundo ciclo de instrucción comienza con la unidad central de procesamiento preguntando a viva 
+voz: “¿Cuál es la instrucción actual?”. El puntero de instrucción contesta: “La instrucción actual es SIG”. 
+Entonces, le indica a la memoria rápida: “Pasá al siguiente símbolo”. Acto seguido, borra la Ñ y escribe 
+una O. Entonces, el que interpreta a la CPU indica al puntero de instrucción que pase a apuntar a la 
+siguiente instrucción, cosa que hace inmediatamente.
+Al comenzar el tercer ciclo, la unidad central le consulta al puntero de instrucción: “¿Qué instrucción 
+tenemos que ejecutar ahora?”. Este contesta: “La instrucción actual es LEE”. A continuación, le dice a 
+la más pequeña de las memorias: “¿Qué hay allí?”, a lo que esta responde: “Una O”. Luego, le dice a la 
+memoria grande: “Escribí una O”. La orden es obedecida inmediatamente. Finalmente, guía al puntero 
+de instrucción para que avance un renglón.
+Estado de la máquina criptográfica luego de completar el tercer ciclo de instrucción
+Estado de la máquina criptográfica luego de completar el segundo ciclo de instrucción
+A 1S D 2
+
+===== PAGINA 288 =====
+289
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+El cuarto ciclo de instrucción arranca con la CPU preguntando: “¿Cuál es la instrucción actual?”, a lo que 
+el puntero de instrucción responde: “La instrucción actual es AVA”. Acto seguido, le dice a la memoria 
+grande: “Avanzá el cabezal una posición”. El cabezal se mueve una celda hacia la derecha y queda 
+apuntando a la que contiene la letra U. Como antes, esta vuelta finaliza indicando al puntero que seña-
+le la siguiente instrucción.
+Si observamos el programa con atención, podemos notar que las instrucciones entre las líneas 1 y 4 son 
+las mismas que las que están entre las líneas 5 y 8. La máquina, entonces, reproducirá a continuación 
+los mismos pasos ya hechos. Al finalizarlos, la segunda celda de la memoria grande contendrá el símbo-
+lo V y el cabezal estará sobre la celda de la tercera posición. Además, el puntero de instrucción señalará 
+la instrucción ALT. Por lo tanto, la máquina se detendrá y habrá finalizado la ejecución del programa.
+Estado de la máquina criptográfica al finalizar la ejecución del programa Encripto 2
+A 1S D 2
+Estado de la máquina criptográfica luego de completar el cuarto ciclo de instrucción
+
+===== PAGINA 289 =====
+290
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+Reflexión intermedia
+Una vez concluida la ejecución de Encripto 2, es el momento apropiado para reflexionar sobre lo ocurrido. 
+En primer lugar, podemos hacer notar a los estudiantes que la unidad central de procesamiento lo único 
+que hace es repetir mecánicamente una serie de pasos hasta que la ejecución de un programa finaliza. 
+A su manera, este componente también ejecuta un programa que viene directamente incorporado en 
+él. Es decir, viene programado de fábrica para repetir una y otra vez un ciclo de instrucción.
+A continuación, subrayamos que cada uno de los pasos que realiza la CPU es extremadamente simple. 
+Aun así, pudimos ver que un programa escrito en lenguaje de máquina puede llevar a cabo una tarea 
+que tiene un interés práctico: encriptar mensajes. En general, las computadoras proveen un lenguaje 
+con el que se puede programar su comportamiento. Suele tratarse de lenguajes con instrucciones muy 
+rudimentarias, que permiten establecer cómo se procesan los datos mientras viajan por los componen-
+tes de la máquina. Vulgarmente, se los denomina lenguajes de bajo nivel.
+Resulta oportuno aprovechar la ocasión para tender un puente entre lo hecho durante el desarrollo de la 
+actividad y lo ejercitado en capítulos anteriores. Hasta aquí, cada vez que construimos programas para 
+ejecutar en la computadora, hemos usado Scratch. Considerando que las computadoras solo cuentan con 
+un conjunto de instrucciones muy básicas, ¿cómo hacen realmente para ejecutar nuestras producciones? 
+Scratch, como casi todos los lenguajes de programación de uso corriente, pertenece al grupo de los lla-
+mados lenguajes de alto nivel. Son lenguajes considerablemente más expresivos que los que las compu-
+tadoras traen de fábrica. Casi todos los lenguajes de alto nivel omiten por completo cómo se procesa y 
+circula la información entre los componentes físicos de la computadora. Al escribir un programa usando 
+cualquiera de ellos, se produce un proceso de traducción. Este proceso se llama compilación y lo lleva 
+adelante un programa llamado compilador. T oma como entrada un programa escrito en un lenguaje 
+de alto nivel y produce como salida un programa en lenguaje de máquina, cuyo comportamiento es 
+idéntico al del programa recibido como entrada. 
+Existe un mecanismo alternativo al de la compilación. En este caso, contamos con un programa lla-
+mado intérprete, generalmente programado en el lenguaje de la máquina. Al igual que el compilador, 
+recibe un programa como entrada. Sin embargo, en lugar de generar una salida, emula paso a paso la 
+ejecución del programa recibido.
+A 1S D 2
+
+===== PAGINA 290 =====
+291
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+A 1S D 2
+Segunda ejecución
+La segunda consigna plantea hacer una ejecución de Encripto 4. Si bien es parecido a Encripto 2, no 
+es idéntico. La secuencia de cuatro instrucciones que observamos que se repetían, en este programa 
+aparece 4 veces.
+1 ESC
+2 SIG
+3 LEE
+4 AVA
+5 ESC
+6 SIG
+7 LEE
+8 AVA
+9 ESC
+10 SIG
+11 LEE
+12 AVA
+13 ESC
+14 SIG
+15 LEE
+16 AVA
+17 ALT
+En este caso, una ejecución del programa aplicará el algoritmo César sobre cuatro caracteres. Al mo-
+mento de arrancar, en la memoria grande se encuentra almacenada la palabra PELO. Al finalizar, QFMP. 
+T ercera ejecución
+La novedad de la tercera consigna es que el programa propuesto incorpora  instrucciones del lenguaje 
+que inspeccionan condiciones y permiten provocar saltos. Al igual que al programar en Scratch, un pro-
+grama de la máquina criptográfica puede evaluar una condición y, de acuerdo a si es cierta o no, hacer 
+una u otra cosa. En esta máquina, lo que puede evaluarse es si el contenido de la memoria rápida es 
+igual a un determinado símbolo, y en caso de que así sea, hacer apuntar al puntero de instrucción a una 
+instrucción arbitraria; caso contrario, el puntero avanza a la siguiente instrucción del programa.
+1 ESC
+2 SI MR = ! SAL 7
+3 SIG 
+4 LEE
+5 AVA
+6 SAL 1
+7 ALT
+El programa propuesto se llama Corriendo hasta la exclamación, e inicialmente, el contenido de la 
+memoria grande es “¡TERMINAR!”.  Al correr, el programa aplicará el algoritmo César sobre todos los 
+símbolos que aparezcan antes del símbolo !. Por lo tanto, al finalizar la corrida la memoria grande 
+contendrá el texto “¡UFSNJÑBS!”.
+El programa comienza copiando el contenido de la memoria grande bajo el cabezal en el casillero de la 
+memoria rápida. La siguiente es una instrucción condicional que  pregunta si el contenido de la memo-
+ria rápida es el signo de exclamación de cierre. En caso afirmativo, salta hasta la última instrucción del 
+programa, que detiene la máquina. En caso contrario, pasa a la siguiente instrucción. Las instrucciones 
+entre las líneas 3 y 5 se ejecutan una tras otra y no presentan innovación alguna en relación con las de 
+
+===== PAGINA 291 =====
+292
+{  c a p í t u l o  7  }  l a  m e m o r i a  y  l a  u n i d a d  c e n t r a l  d e  p r o c e s a m i e n t o
+A 1S D 2
+ambas versiones de Encripto: reemplazan el símbolo de la celda bajo el cabezal de la memoria grande 
+por el siguiente, de acuerdo con el orden del alfabeto de la máquina. 
+La instrucción de la línea 6, una vez alcanzada, provoca que el puntero de instrucción pase a señalar la 
+primera instrucción, de modo que hace comenzar todo otra vez. Este proceso se repetirá hasta que el 
+cabezal quede posicionado sobre una celda que contenga el cierre de una exclamación. Además, este 
+es el único modo de alcanzar la última instrucción del programa. Si tal símbolo no se encontrase en la 
+memoria al comenzar, el programa no se detendría, se ejecutaría hasta el fin de los tiempos.
+Reflexión de cierre
+Combinando un salto condicional con uno incondicional conseguimos el mismo efecto que se produce 
+con las instrucciones de un ciclo de cualquier lenguaje de alto nivel, como por ejemplo, Scratch. Al ejecu-
+tarse, el programa repite un bloque de instrucciones hasta que se alcanza una cierta condición. 
+Resulta interesante reflexionar sobre qué ocurriría si al comenzar la ejecución ninguna celda de la me-
+moria grande tuviese impreso el símbolo !. Como vimos, en ese caso el programa no se detendría nunca. 
+De acuerdo con la terminología de la teoría de la computabilidad, Corriendo hasta la exclamación 
+calcula una función parcial. Es decir, una función que no está definida frente a ciertas entradas. En el 
+plano de esta máquina, esto quiere decir que, al correr, si recibe ciertas entradas, se conseguirá encriptar 
+un mensaje; y si recibe otras, la maquinaria no se detendrá nunca. 
+Desde la perspectiva del programa Corriendo hasta la exclamación, la entrada es el contenido de la me-
+moria grande al comenzar una ejecución y la salida (en caso de existir) es lo que en esa memoria queda 
+escrito al finalizar.
+Desde la óptica de la máquina criptográfica, además del mensaje escrito en la memoria grande, el pro-
+grama que tiene que emular también forma parte de la entrada. La salida, que existirá solo en el caso 
+de que una corrida concluya, será el contenido de la memoria grande en el momento en que la máquina 
+se detenga. Esta computadora puede, potencialmente, transformar cualquier mensaje de diez símbolos 
+en cualquier otro de igual longitud. Es solo cuestión de construir el programa adecuado. 
+
+===== PAGINA 292 =====
+nombre y apellido:
+CURSO: FECHA:
+¿Querés saber cómo funciona por dentro una computadora? ¡Lo vas a ver con tus 
+propios ojos! Para arrancar, andá mirando el manual de la máquina criptográfica.
+LA MÁQUINA CRIPTOGRÁFICA
+HARDWARE DE LA MÁQUINA CRIPTOGRÁFICA
+La máquina criptográfica tiene dos memorias: una 
+rápida y una grande. La memoria rápida consiste 
+en un único casillero. Allí se puede escribir de a un 
+símbolo por vez. El alfabeto disponible incluye las 
+letras del abecedario, los dígitos del 0 al 9, el espacio 
+y los signos de exclamación e interrogación, tanto de 
+apertura como de cierre.
+La memoria grande consiste en una tira de 10 
+celdas. En cada una se pueden guardar los mismos 
+símbolos que en el casillero de la memoria rápida. 
+Además, el componente tiene un cabezal que 
+siempre se encuentra posicionado sobre una celda. 
+Se puede leer el carácter allí almacenado o escribir 
+uno nuevo. 
+¿ C H O R I Z O S ?
+En esta máquina, un programa es una lista numerada 
+de instrucciones que se escriben una debajo de la 
+otra (las instrucciones de la máquina criptográfica se 
+encuentran más adelante). La computadora cuenta 
+con un puntero de instrucción. Se trata de una 
+flecha que siempre apunta a la instrucción que la 
+máquina tiene que ejecutar.
+1. LEE
+2. SIG
+3. ESC
+4. AVA
+Por último, tenemos la unidad central de 
+procesamiento (CPU), que dirige todo el 
+funcionamiento. Es el componente que se encarga 
+de ejecutar una a una las instrucciones de un 
+programa. Para hacerlo, repite lo que se conoce 
+como ciclo de instrucción: (i) consulta al puntero de 
+instrucción cuál es la instrucción del programa que 
+tiene que ejecutarse; (ii) da indicaciones al resto de 
+los componentes para llevarla a cabo; y (iii) le indica 
+al puntero de instrucción a dónde debe apuntar, 
+de forma tal de que quede señalando la próxima 
+instrucción del programa que tiene que ejecutarse. 
+Estos ciclos se interrumpen solo cuando se ha 
+completado una corrida del programa.
+O
+C
+A, B, C, D, E, F, G, H, I, J, K, L, M, N, Ñ, O, P, 
+Q, R, S, T, U, V, W, X, Y, Z, 0, 1, 2, 3, 4, 5, 6, 
+7, 8, 9,  , ¡, !, ¿, ? 
+Memoria grande
+Memoria rápida Alfabeto Puntero de instrucción
+{  c a p í t u l o  7  }  l A  m e m o r i A  y  l A  u n i D A D c e n t r A l  D e  p r o c e S Am i e n t o
+SD2/Ficha A1
+
+===== PAGINA 293 =====
+nombre y apellido:
+CURSO: FECHA:
+AVA
+Mueve el cabezal de la memoria grande una posición 
+hacia la derecha. Si el cabezal se encuentra en la últi-
+ma celda, vuelve a posicionarse sobre la primera. 
+ESC
+Escribe en la memoria rápida el contenido de la celda 
+de la memoria grande apuntada por el cabezal.
+LEE
+Lee el contenido de la memoria rápida y lo escribe 
+en la celda de la memoria grande apuntada por el 
+cabezal.
+SIG
+Reemplaza el símbolo de la memoria rápida por el 
+siguiente, de acuerdo con el orden del alfabeto que 
+usa la máquina. Al aplicarlo sobre el símbolo ?, el 
+contenido pasa a ser A.
+ANT
+Reemplaza el símbolo de la memoria rápida por el 
+anterior, de acuerdo con el orden del alfabeto que 
+usa la máquina. Al aplicarlo sobre el símbolo A, el 
+contenido pasa a ser ?.
+SAL [nro de línea]
+Hace apuntar al puntero de instrucción hacia la 
+línea nro de línea, que es un parámetro de la 
+instrucción.
+SI MR = [valor] SAL [nro de línea]
+Si el contenido de la memoria rápida es valor, hace 
+apuntar al puntero de instrucción a la línea nro de 
+línea.
+ALT
+Termina la ejecución del programa.
+EL CONJUNTO DE INSTRUCCIONES
+Las instrucciones que pueden formar parte de los programas de la máquina criptográfica 
+se describen a continuación. 
+Puntero de instrucción
+Unidad central 
+de procesamiento Memoria rápida
+Memoria 
+grande
+{  c a p í t u l o  7  }  l A  m e m o r i A  y  l A  u n i D A D c e n t r A l  D e  p r o c e S Am i e n t o
+SD2/Ficha A1
+
+===== PAGINA 294 =====
+nombre y apellido:
+CURSO: FECHA:
+Cuatro compañeros van a simular la ejecución de distintos programas sobre esta máquina. 
+¡Asegurate de ser alguno de ellos en alguna oportunidad!
+1. Te presentamos el programa Encripto 2.
+1 ESC  5 ESC
+2 SIG  6 SIG
+3 LEE  7 LEE
+4 AVA  8 AVA
+   9 ALT
+Ñ U
+¿Qué ocurre cuando corren el programa Encripto 2 si al empezar la memoria grande contiene el mensaje ÑU? 
+2. Mirá el programa Encripto 4 y observá qué sucede si al comenzar la ejecución la memoria grande tiene 
+impresa la palabra PELO.
+1 ESC
+2 SIG
+3 LEE
+4 AVA
+5 ESC
+6 SIG
+7 LEE
+8 AVA
+9 ESC
+10 SIG
+11 LEE
+12 AVA
+13 ESC
+14 SIG
+15 LEE
+16 AVA
+17 ALT
+P E L O
+¿Qué quedó?
+3. Observá atentamente el programa Corriendo hasta la exclamación y fijate qué sucede si al comenzar a 
+ejecutarlo en la memoria grande dice ¡TERMINAR!
+1 ESC   3 SIG    5 AVA
+2 SI MR = ! SAL 7 4 LEE    6 SAL 1
+       7 ALT
+{  c a p í t u l o  7  }  l A  m e m o r i A  y  l A  u n i D A D c e n t r A l  D e  p r o c e S Am i e n t o
+SD2/Ficha A1
+CONDICIONALES 
+Y CICLOS
+Si prestás atención, 
+vas a ver que las 
+instrucciones que 
+provocan saltos 
+permiten incorporar 
+condicionales y ciclos 
+a los programas 
+de la máquina 
+criptográfica.
+¿Qué texto quedó impreso? ¿Qué pasa si ejecutamos Corriendo hasta la 
+exclamación sobre un mensaje que no contenga el símbolo !?
+¡ T E R M I N A R !
+
+===== PAGINA 295 =====
+GLOSARIO
+
+===== PAGINA 296 =====
+298
+{  g l o s a r i o  }
+G
+abstracción. Proceso que consiste en reducir la complejidad 
+de algo, poniendo el foco en la idea principal. 
+algoritmo. Serie ordenada de pasos para completar una 
+tarea.
+almacenamiento. T érmino que se usa para referirse tanto 
+al proceso como al dispositivo para guardar datos digitales, 
+de forma temporal o permanente.
+autenticación. Verificación de la identidad de una persona 
+o proceso.
+bit. Acrónimo de binary digit, es decir, ‘dígito binario’. Es un 
+dígito del sistema de numeración binario que tiene solo dos 
+valores, el 0 y el 1. T oda información digitalizada se repre-
+senta con un conjunto de bits y por eso se lo conoce como la 
+unidad mínima de información. 
+booleano. En honor al matemático británico George Boole 
+(1815-1864). Tipo de dato o expresión con solo dos valores 
+posibles: verdadero o falso. 
+bug. Error en un programa de software. Puede provocar que 
+el programa finalice inesperadamente o funcione de una 
+manera inesperada. 
+cadena de caracteres. T ambién llamada string. Secuencia 
+de letras, números u otros símbolos. Una cadena puede 
+representar, por ejemplo, un nombre, una dirección o el título 
+de una canción. Algunas funciones generalmente asociadas 
+con cadenas son: longitud, concatenación y subcadena.
+canal. En general, medio por el que se puede realizar una 
+comunicación, por ejemplo, una llamada por teléfono celular. 
+En particular, ondas electromagnéticas que se emiten y se 
+reciben en una frecuencia determinada en esa comunicación. 
+celular. Dispositivo inalámbrico electrónico que se conecta 
+a una red celular o está preparado para tener acceso a la 
+telefonía celular. T ambién se lo denomina (teléfono) móvil.
+chip. Circuito electrónico en miniatura dentro de un encap-
+sulado generalmente negro con terminales de conexión a su 
+alrededor. Consta de transistores y otros elementos elec-
+trónicos activos y pasivos; llega a tener miles de millones de 
+estos elementos. 
+ciberseguridad. Protección contra el acceso no autorizado 
+a los recursos informáticos o su alteración, mediante el uso 
+de tecnología, procesos y capacitación. 
+ciclo. Estructura de programación que repite una secuencia 
+de instrucciones.
+Ciencias de la Computación. Disciplina que estudia las 
+computadoras y los procesos algorítmicos, incluyendo sus 
+principios, los diseños de hardware y software, su implemen-
+tación y su impacto en la sociedad. 
+cifrado. Procedimiento que aumenta la seguridad de datos 
+electrónicos mediante la codificación del contenido, de ma-
+nera que solo pueda leerlo la parte autorizada que cuente 
+con la clave para decodificarlo. 
+ciudadanía digital. Normas de comportamiento apropia-
+do y responsable con respecto al uso de la tecnología.
+código. Conjunto de instrucciones expresadas en un lengua-
+je de programación.
+computación. Conjunto de conocimientos científicos y 
+técnicas que hacen posible el tratamiento automático 
+de la información por medio de computadoras. Actividad 
+orientada a objetivos que requiere procesos algorítmicos, se 
+beneficia de ellos o los crea.

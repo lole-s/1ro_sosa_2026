@@ -1,31 +1,31 @@
 # SOSA 2026 - 1er año
 
-Espacio curricular: Sistemas Operativos y Software de Aplicacion (SOSA)
+Espacio curricular: Sistemas Operativos y Software de Aplicaciones (SOSA)
 
 Curso: 1er año (11-12 años)  
 Carga horaria: 2 hs semanales  
 Formato: Taller  
-Articulacion: Tecnologia (1er año)
+Articulación: Educación Tecnológica + Inglés Aplicado
 
-## Proposito
-Este repositorio organiza la planificacion docente y la guia de estudiantes para 2026, contemplando escenarios con y sin notebook.
+## Enfoque actual
+Este repositorio quedó simplificado para trabajar con el núcleo activo 2026:
+- planificación anual en dos formatos (inspección y estructura de referencia),
+- proyecto integrador SOSA + Educación Tecnológica,
+- manual/cuadernillo de estudiantes,
+- manual/cuadernillo docente.
 
-## Estructura
-- `01_plan_anual/`: mapa anual y cronograma.
-- `02_unidades/`: secuencias por unidad.
-- `03_clases/`: planificaciones micro clase por clase.
-- `04_guia_alumnos/`: fichas y consignas para estudiantes.
-- `05_evaluacion/`: rubricas, listas de cotejo e instrumentos.
-- `06_recursos/`: enlaces, videos y materiales de apoyo.
-- `07_sin_notebook/`: versiones unplugged y adaptaciones.
+## Estructura vigente
+- `01_manuales/`
+Manual del estudiante y manual docente (edición y versión compartible).
 
-## Criterios didacticos
-- Progresion: comprender -> practicar -> aplicar en proyecto.
-- Espiral: se retoman conceptos en mayor complejidad.
-- Evaluacion continua con evidencias breves por bloque.
-- Enfoque inclusivo con alternativas sin conectividad ni dispositivos.
+- `02_planificaciones/`
+Planificación anual 2026 en formato inspección, formato de referencia y proyecto integrador asociado.
 
-## Fuentes de base utilizadas
-- Material historico del espacio en `old/`.
-- Material complementario de Tecnologia y NTICx en `material_complemetario/`.
+## Convención de uso
+- Los archivos `.md` son la base editable.
+- Los archivos `.docx` son versiones para compartir/imprimir.
+
+## Fuentes base
+- Material histórico del espacio en `old/`.
+- Material complementario local en `material_complemetario/`.
 - Repositorio previo: `https://github.com/lole-s/SOSA`.

@@ -11,3 +11,7 @@ Thumbs.db
 # Python cache
 __pycache__/
 *.pyc
+
+# Local archive (excluded)
+_archivo_local_no_versionar/
+

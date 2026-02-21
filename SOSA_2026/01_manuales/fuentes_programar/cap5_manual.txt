@@ -1,0 +1,1428 @@
+
+
+===== PAGINA 197 =====
+198
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+REPRESENTACIÓN 
+DE NÚMEROS
+OBJETIVOS
+• Mostrar cómo las computadoras 
+digitales representan números.
+• Representar números usando solo los 
+símbolos 0 y 1.
+T odos los datos que utiliza una computadora se almacenan usando 
+solo dos valores. Estos valores se suelen representar con 0 y 1, pero 
+también podrían ser sí y no, blanco y negro, puño y palma, etc. Solo 
+es necesario elegir dos signos bien distintos para que podamos 
+distinguirlos sin ninguna duda. 
+El uso de los dígitos 0 y 1 es tan común que a partir de ellos se 
+inventó una palabra: bit, formada por las dos primeras letras y la 
+última letra de dígito binario en inglés, binary digit. Un bit puede 
+tener solo dos valores y por tal motivo se los llama dígitos binarios. 
+Esta secuencia didáctica comprende dos actividades sin 
+computadora para que los estudiantes se familiaricen con el sistema 
+de numeración binario.
+Secuencia 
+Didáctica 1
+
+===== PAGINA 198 =====
+199
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 1S D 1
+Actividad 1
+Nos aproximamos  
+al sistema binario1
+GRUPAL (5)
+OBJETIVOS
+• Presentar el sistema de numeración 
+binario.
+• Construir números binarios a partir de 
+números decimales.
+MATERIALES
+5 cartas tamaño A4 o mayor
+Ficha para estudiantes
+DESARROLLO
+Para esta actividad vamos a necesitar un juego de cinco cartas de tamaño A4 o 
+mayor para que toda la clase pueda observarlas con facilidad. Cada naipe tiene 
+uno o más puntos de un lado y nada del reverso, como muestra la siguiente figura.
+Presentamos los naipes a la clase y elegimos cinco estudiantes para que sosten-
+gan las cartas frente al resto. Las cartas deben estar en el orden que se indica en la 
+ilustración, pero la clase debe ver solo el reverso de las cartas. Es decir, los puntos 
+tienen que quedar ocultos para el resto de la clase.
+Pedimos al estudiante que sostiene la carta con un solo punto que la dé vuelta y 
+luego solicitamos lo mismo al que está a su lado. Antes de pedir al tercer estu-
+diante que gire su carta, preguntamos a la clase: “¿Cuántos puntos creen que 
+va a tener la tercera carta?”. Probablemente contesten: “Tres”. Pedimos al tercer 
+estudiante que dé vuelta su carta, que tiene cuatro puntos. Cada carta tiene el 
+doble de puntos que la carta que está a su derecha. Repetimos la pregunta, pero 
+ahora sobre la cuarta carta a descubrir y luego sobre la quinta. A esta altura, se es-
+pera que los estudiantes puedan deducir que estas tienen ocho y dieciséis puntos 
+respectivamente.
+Juego de cartas de la actividad
+1 Adaptación de la actividad “Count the Dots” de CS 
+Unplugged, disponible en https:/ /goo.gl/9w3mvW.
+
+===== PAGINA 199 =====
+200
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 1S D 1
+Tras esta presentación, repartimos a los alumnos la ficha de la actividad y les pedimos que recorten las 
+cartas. Luego les preguntamos: “¿Cómo pueden conseguir que solo 22 puntos estén visibles?”. Espera-
+mos que propongan la siguiente solución.
+Cuando resuelvan esta pregunta, les proponemos que representen otras cantidades como, por ejemplo, 6, 
+11 y 30. Para responder correctamente deberían disponer las cartas de las siguientes maneras.
+Representación del número 22 con el juego de cartas
+Representaciones de los números 6, 11 y 30 con el juego de cartas
+Preguntamos: “¿Se les ocurre algún número que no pueda ser representado?”. Cualquier número mayor 
+o igual a 32 no puede representarse, dado que el total de puntos con las 5 cartas es 31. “¿Cómo pueden 
+representar el cero?”. Con todas las cartas boca abajo. “¿Y el 31?”. Con todas las cartas boca arriba. 
+A continuación, pedimos a los estudiantes que formen grupos de 5 integrantes. El desafío que se les 
+propone es que, usando las cartas, representen todos los números entre 0 y 31 en orden, uno a conti-
+nuación del otro. Uno de ellos debe manipular las cartas mientras el resto mira atentamente cómo los 
+naipes cambian de lado, observando que algunos son más usados que otros.
+
+
+===== PAGINA 200 =====
+201
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 1S D 1
+Con nuestra ayuda, los estudiantes deberían ir descubriendo algunos patrones. Por ejemplo, que cada 
+carta gira la mitad de las veces que la carta a su derecha. Además, pueden notar que una de cada dos 
+veces necesitan usar la carta con un solo punto. Aquí podemos relacionar el concepto matemático de 
+paridad: cada vez que la carta con un punto está boca arriba, estaremos representando un número 
+impar y cada vez que esté boca abajo, un número par.
+Finalmente, mostramos que usar únicamente los símbolos 0 y 1 nos alcanza para expresar todos los 
+números que pueden representarse con las cartas. Para eso, copiamos en el pizarrón el siguiente dibujo.
+El estado de las cartas representado por una secuencia de ceros y unos
+Les hacemos notar a los estudiantes que debajo de cada carta boca arriba hay un 1 y debajo de cada 
+carta boca abajo, un 0. Usamos estos valores para indicar los dos estados posibles en los que puede 
+estar una carta: boca arriba y boca abajo. Aun si borramos las cartas, la información sobre si cada una 
+estaba boca arriba o boca abajo queda codificada en la secuencia de bits. 
+CIERRE
+Les contamos a los estudiantes que las computadoras usan solo dos valores para representar toda la 
+información que manipulan. En general, nos vamos a referir a esos valores usando los símbolos 0 y 1. 
+Internamente, los circuitos electrónicos de la computadora utilizan dos niveles de voltaje distintos. 
+
+
+===== PAGINA 201 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  5  }  r e p r e S e n t A c i ó n  D e  l A  i n f o r m A c i ó n
+SD1/Ficha A1
+¿Sabías que existen distintas formas de contar? Todo lo que ves 
+o escuchás en la computadora, palabras, imágenes, números e 
+incluso películas ¡se almacena usando solo ceros y unos! 
+NOS APROXIMAMOS 
+AL SISTEMA BINARIO
+1.   Cortá las cartas que están al final de la ficha. Ordenalas de mayor a menor, como lo 
+hace el chico en la  figura de la derecha. Ahora da vuelta las cartas de forma tal que, 
+manteniéndolas en el mismo orden, solo se vean 22 puntos. ¿Qué naipes deben 
+quedar con los puntos visibles y cuáles al revés? 
+2.  Averiguá cómo obtener los números 6,11 y 30. ¿Hay más de una forma de hacerlo? ¿Cuál 
+es el número más grande que podés conseguir con las cartas? ¿Cuál es el más pequeño? 
+¿Hay algún número que no puedas armar entre el más pequeño y el más grande?
+3.   Ahora tratá de obtener los números 1, 2, 3 y 4 en orden. ¿Podés pensar un método 
+lógico y confiable para dar vuelta las cartas de forma tal de aumentar de a uno 
+cualquier número?
+
+
+===== PAGINA 202 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  5  }  r e p r e S e n t A c i ó n  D e  l A  i n f o r m A c i ó n
+SD1/Ficha A1
+4. Mirá las cartas de nuevo. Si tuvieras que colocar la siguiente carta de la secuencia, 
+¿cuántos puntos debería tener? ¿Qué pasa con la carta que le seguiría a esa? ¿Cuál es 
+la regla que estás siguiendo para hacer las nuevas cartas? ¡La cantidad de puntos por 
+carta crece a gran velocidad!
+5. Si observás cuidadosamente la secuencia, podés encontrar una relación interesante. 
+Sumá: 1 + 2 + 4 + 8 y escribí el resultado. Ahora probá sumar 1 + 2 + 4 + 8 + 16. ¿Qué 
+pasa cuando sumás todos los números desde el principio?
+6. Con tus dedos podés llegar mucho más allá de 10. Si usás los dedos de una sola mano 
+de modo que cada uno de ellos represente el valor de una de las cartas con puntos, 
+podés contar de 0 a 31. Son 32 números en total. ¡No te olvides de que el 0 es un 
+número también! Ahora, tratá de contar en orden con los dedos. Si un dedo está hacia 
+arriba es un 1 y si está hacia abajo es un 0. ¿Qué pasa si contás con los 10 dedos de tus 
+manos? ¡Podés ir desde 0 a 1023! Es decir, 1024 números.
+Si con los dedos de dos manos podés contar hasta 1023, ¿cuál es el número más grande 
+que puede alcanzar un extraterrestre de cuatro manos si tiene cinco dedos en cada una?
+
+
+===== PAGINA 203 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  5  }  r e p r e S e n t A c i ó n  D e  l A  i n f o r m A c i ó n
+SD1/Ficha A1
+Cartas para recortar
+
+===== PAGINA 204 =====
+205
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 2S D 1
+Actividad 2
+Contamos con 
+ceros y unos
+INDIVIDUAL
+OBJETIVOS
+• Realizar una práctica con el sistema 
+binario.
+• Mostrar que cualquier número entero 
+puede representarse con dos símbolos.
+• Evidenciar que el uso de los símbolos 0 
+y 1 es arbitrario.
+MATERIALES
+Papel
+Lápiz
+Ficha para estudiantes
+DESARROLLO
+Comenzamos formulando a los estudiantes la siguiente pregunta: “¿Cómo conta-
+mos cuando usamos el sistema decimal?”. Les pedimos que cuenten de 0 a 10 y, 
+a medida que lo hacen, vamos anotando en el pizarrón cada uno de los números. 
+Una vez que estén todos escritos, les preguntamos si notan alguna diferencia 
+entre el 10 y el resto de los números. Es esperable que algún estudiante conteste 
+que, mientras que para los que están entre el 0 y el 9 se usa solo un dígito, en el 
+caso del 10 se usan dos. 
+A continuación preguntamos: “¿Cómo harían para contar si únicamente estuvie-
+ran disponibles el 0 y el 1? ¿Cómo representarían el número 2?”. Algún estudiante 
+podría darse cuenta de que una forma de hacerlo es escribiendo 10.
+Copiamos en el pizarrón la siguiente tabla y pedimos a la clase que vaya indicando 
+cómo se completa la última columna, de a una fila por vez.
+CANTIDAD 
+REPRESENTADA
+SISTEMA 
+DECIMAL
+SISTEMA 
+BINARIO
+0
+● 1
+● ● 2
+● ● ● 3
+● ● ● ● 4
+● ● ● ● ● 5
+Así queda la tabla completada correctamente.
+CANTIDAD 
+REPRESENTADA
+SISTEMA 
+DECIMAL
+SISTEMA 
+BINARIO
+0 0
+● 1 1
+● ● 2 10
+● ● ● 3 11
+● ● ● ● 4 100
+● ● ● ● ● 5 101
+
+===== PAGINA 205 =====
+206
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 2S D 1
+Una vez que hayan completado las 6 filas de la tabla, les entregamos la ficha de la actividad y les pedi-
+mos que completen la tabla que allí se encuentra. Al hacerlo, obtendrán la representación binaria de los 
+números 0 al 15, como se muestra a continuación. 
+CANTIDAD 
+REPRESENTADA
+SISTEMA 
+DECIMAL
+SISTEMA 
+BINARIO
+● ● ● ● ● ● 6 110
+● ● ● ● ● ● ● 7 111
+● ● ● ● ● ● ● ● 8 1000
+● ● ● ● ● ● ● ● ● 9 1001
+● ● ● ● ● ● ● ● ● ● 10 1010
+● ● ● ● ● ● ● ● ● ● ● 11 1011
+● ● ● ● ● ● ● ● ● ● ● ● 12 1100
+● ● ● ● ● ● ● ● ● ● ● ● ● 13 1101
+● ● ● ● ● ● ● ● ● ● ● ● ● ● 14 1110
+● ● ● ● ● ● ● ● ● ● ● ● ● ● ● 15 1111
+CIERRE
+A modo de cierre, les explicamos a los estudiantes que, en lugar de usar los símbolos 0 y 1, el sistema 
+binario podría usar otros, como por ejemplo ● y ●  para el cero y el uno respectivamente. Siguiendo 
+esta pauta, ● ● ● ● codifica el número 10. Esta es la base de la representación de datos: todo lo que 
+pueda estar en dos estados claramente distinguibles puede representar lo que sea. Cuando escribimos 
+en un papel, normalmente usamos 0 para uno de los estados y 1 para el otro. Internamente, la compu-
+tadora usa dos niveles de voltaje diferentes.
+
+===== PAGINA 206 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  5  }  r e p r e S e n t A c i ó n  D e  l A  i n f o r m A c i ó n
+SD1/Ficha A2
+1. Completá la tabla usando solo ceros y unos.
+¡Ahora vamos a escribir números 
+tal como lo hacen las computadoras! 
+CONTAMOS CON 
+CEROS Y UNOS
+CANTIDAD 
+REPRESENTADA
+SISTEMA 
+DECIMAL
+SISTEMA 
+BINARIO
+0
+● 1
+● ● 2
+● ● ● 3
+● ● ● ● 4
+● ● ● ● ● 5
+● ● ● ● ● ● 6
+● ● ● ● ● ● ● 7
+● ● ● ● ● ● ● ● 8
+● ● ● ● ● ● ● ● ● 9
+● ● ● ● ● ● ● ● ● ● 10
+● ● ● ● ● ● ● ● ● ● ● 11
+● ● ● ● ● ● ● ● ● ● ● ● 12
+● ● ● ● ● ● ● ● ● ● ● ● ● 13
+● ● ● ● ● ● ● ● ● ● ● ● ● ● 14
+● ● ● ● ● ● ● ● ● ● ● ● ● ● ● 15
+
+
+===== PAGINA 207 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  5  }  r e p r e S e n t A c i ó n  D e  l A  i n f o r m A c i ó n
+SD1/Ficha A2
+2. Hasta ahora nos las hemos arreglado para representar números usando los símbolos 0 y 1. 
+Pero ¿qué diferencia habría si en su lugar usáramos ● y ● ? ¡La elección de los símbolos es 
+arbitraria! Descubrí cuáles son los números detrás de estas secuencias de símbolos.1
+¿CEROS Y UNOS?
+Las computadoras no usan los 
+símbolos 0 y 1 para representar 
+información. Internamente, la 
+información contenida en la 
+memoria se codifica usando 
+dos niveles de voltaje.
+ =1   = 0
+=
+ =1   = 0
+=
+ =1   = 0
+=
+ =1   = 0
+=
+ =1   = 0
+=
+ =1   = 0
+=
+ =1   = 0
+=
+ =1   = 0
+=
+ =1   = 0
+=
+ =1   = 0
+=
+1 Adaptación de la actividad “Working with binary” de CS Unplugged, disponible en https:/ /goo.gl/D8Q136.
+
+===== PAGINA 208 =====
+209
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+OBJETIVOS
+• Mostrar cómo las computadoras 
+digitales representan texto usando 
+números.
+• Realizar prácticas de codificación  
+y decodificación de texto.
+T odos los días usamos textos en nuestros dispositivos digitales: 
+utilizamos servicios de mensajería instantánea, hacemos 
+comentarios en las redes sociales, leemos páginas web y muchas 
+cosas más. ¿Cómo hacen las computadoras para guardar, transmitir 
+y mostrar estos textos si solo saben representar números? 
+Al finalizar esta secuencia didáctica los estudiantes comprenderán 
+las ideas subyacentes a las técnicas de representación de texto 
+usadas en los sistemas digitales. 
+REPRESENTACIÓN 
+DE TEXTO
+Secuencia 
+Didáctica 2
+
+===== PAGINA 209 =====
+210
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 1S D 2
+Actividad 1
+Representamos 
+letras1
+  DE A DOS
+OBJETIVOS
+• Realizar una práctica de codificación de 
+letras con números.
+• Mostrar la relación entre una cantidad 
+fija de bits y el número de cosas 
+distintas que pueden representar.
+MATERIALES
+Papel 
+Lápiz
+Ficha para estudiantes 
+DESARROLLO
+Comenzamos relatando a la clase la siguiente situación. T omás está atrapado en 
+el último piso de un centro comercial. Es justo antes de Navidad y quiere llegar a 
+su casa con los regalos. Ha intentado llamar a alguien, incluso gritando, pero nadie 
+responde. Se está haciendo de noche y al otro lado de la calle divisa a una chica 
+que está usando una computadora. ¿Cómo puede atraer su atención? 
+T omás mira a su alrededor para ver qué podría usar. Entonces se le ocurre una bri-
+llante idea: ¡utilizar las luces del árbol de Navidad para enviarle un mensaje! Son 
+cinco luces que puede prender y apagar en forma independiente. ¿Le alcanzan 
+para enviar el mensaje?
+Proponemos a los estudiantes que cuenten las letras del alfabeto. Luego, discuti-
+mos cómo se pueden codificar las letras a través del uso de números. Les pregun-
+tamos: “¿Con qué número podemos representar la A, que es la primera letra del 
+abecedario? ¿Y la B? ¿Y la C?”. Las respuestas serán correctas siempre que, por un 
+lado, los números propuestos sean diferentes para las distintas letras y, por otro, 
+que sean menores a treinta y dos, que es el número más grande que se puede 
+representar con cinco bits (o cinco luces, en este caso). 
+Les recordamos que T omás tiene solo cinco luces y que cada luz puede representar 
+un solo bit. El 0 se puede representar con la luz apagada y el 1 con la luz prendida. 
+Además, sugerimos asociar números y letras siguiendo caminos ascendentes, 
+como el orden habitual de los números y el orden alfabético. 
+Solicitamos a los estudiantes que se pongan en parejas y les repartimos la ficha 
+de la actividad. Les pedimos que armen una tabla de correspondencia entre las 
+letras y los números entre 0 y 27. Se muestra a continuación una posible codifica-
+ción del alfabeto usando números. Hacemos notar que, además del alfabeto, se 
+está codificando el símbolo espacio en blanco; en este caso, con el número 0.
+1 Adaptación de la actividad “Sending Secret 
+Messages” de CS Unplugged, disponible en 
+https:/ /goo.gl/D8Q136.
+
+
+===== PAGINA 210 =====
+211
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 1S D 2
+0 1 2 3 4 5 6 7 8 9 10 11 12 13
+A B C D E F G H I J K L M
+14 15 16 17 18 19 20 21 22 23 24 25 26 27
+N Ñ O P Q R S T U V W X Y Z
+Codificación de letras del alfabeto como números decimales 
+Pedimos que uno de los integrantes de la pareja piense una frase para que T omás pida ayuda. Luego, 
+solicitamos que la codifique usando un sistema binario. La tarea del otro miembro de la pareja es de-
+codificar la frase. Luego intercambiarán roles. A continuación se da la codificación de la palabra ayuda 
+usando las luces de T omás.
+Codificación de la palabra ayuda usando luces navideñas 
+Por último, proponemos a los estudiantes que observen el teclado ilustrado en la ficha y que cuenten 
+cuántos símbolos nos permite escribir. Les preguntamos: “¿Cuántos caracteres tendría que poder repre-
+sentar una computadora que use este teclado?”. Les recordamos que los números, el espacio en blanco 
+y los restantes símbolos también son caracteres, y que las letras pueden aparecer en minúscula y en 
+mayúscula. “Entonces, ¿cuántos bits necesita una computadora para almacenar todos los caracteres 
+de este teclado?”.
+
+
+===== PAGINA 211 =====
+212
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 1S D 2
+Son 81 símbolos en total. Por lo tanto, harán falta al menos 7 bits, pues con 6 solo se podrán representar 
+26 = 64 símbolos diferentes, mientras que con 7 se pueden codificar hasta 27 = 128.
+CIERRE
+Para finalizar la actividad, contamos a los estudiantes que todos los símbolos del alfabeto se pueden 
+representar a través de una codificación llamada ASCII. ASCII es un acrónimo de la expresión en inglés 
+American Standard Code for Information Interchange (Código Estándar Estadounidense para el Inter-
+cambio de Información). Se basa en el uso de 7 bits para representar 128 caracteres, pero para algunos 
+idiomas se usan códigos más largos. Actualmente, ASCII ha sido reemplazada por otras codificaciones 
+que incluyen más bits y, por lo tanto, representan un mayor número de símbolos. 
+
+===== PAGINA 212 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  5  }  r e p r e S e n t A c i ó n  D e  l A  i n f o r m A c i ó n
+SD2/Ficha A1
+1.  Indicale a Tomás una forma de codificar las letras del alfabeto español con números.  
+¡No te olvides de incluir el espacio en blanco para que pueda mandar mensajes con 
+más de una palabra!
+2. Tomás ya tiene una forma de representar letras usando números. Pensá una frase y 
+escribí la secuencia de números que la componen. 
+REPRESENTAMOS 
+LETRAS
+Tomás está atrapado en el último piso de un centro comercial. 
+Es justo antes de Navidad y quiere llegar a casa con los regalos. 
+Ha intentado llamar a alguien, incluso gritando, pero no hay 
+nadie alrededor. Se está haciendo de noche y al otro lado de 
+la calle ve a una chica trabajando con su computadora. ¿Cómo 
+puede atraer su atención?
+Mira a su alrededor y se le ocurre una brillante idea: ¡utilizar 
+las luces del árbol de Navidad para enviarle un mensaje! Son 
+5 luces que puede prender y apagar de forma independiente. 
+¿Le alcanzarán para enviar un mensaje a la chica?
+0 1 2 3 4 5 6 7 8 9 10 11 12 13
+14 15 16 17 18 19 20 21 22 23 24 25 26 27
+
+===== PAGINA 213 =====
+nombre y apellido:
+CURSO: FECHA:
+3.  Tomás, además, ya sabe cómo escribir un número usando un sistema binario. Usando 
+solo las luces navideñas, tenés que escribir la frase que pensaste. Tené presente que cada 
+fila representa solo un número.
+4.  Al igual que Tomás, las computadoras usan números binarios para representar caracteres. 
+¿Cuántos caracteres tiene que representar una computadora con este teclado? Tené 
+en cuenta que los números, el espacio en blanco y los restantes símbolos también son 
+caracteres, y que las letras pueden aparecer en minúscula y en mayúscula. 
+{  c a p í t u l o  5  }  r e p r e S e n t A c i ó n  D e  l A  i n f o r m A c i ó n
+SD2/Ficha A1
+5.  ¿Cuántos bits necesita una computadora para almacenar todos los caracteres del 
+teclado? ¿Le alcanzan 5 como a Tomás?
+
+
+===== PAGINA 214 =====
+215
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 2S D 2
+Actividad 2
+Mensajes secretos
+INDIVIDUAL
+OBJETIVOS
+• Traducir números expresados en 
+sistema binario a sistema decimal.
+• Decodificar un texto codificado con 
+números.
+MATERIALES
+Papel
+Lápiz
+Ficha para estudiantes 
+DESARROLLO
+Presentamos la actividad a la clase con la siguiente consigna: “Imaginen que 
+trabajan como guardaparques del Parque Nacional Quebrada del Condorito. Un 
+día les avisan que se perdió un montañista que llevaba una máquina para pedir 
+auxilio en caso de extraviarse. Se sabe que esta máquina envía mensajes en clave 
+a través de dos tipos de energía: alta y baja. Alta es 1 y baja es 0. Les llega su men-
+saje. No hay una computadora en todo el parque. ¡Tienen que descifrar el mensaje 
+como si ustedes fueran la compu! 
+Repartimos las fichas a los estudiantes y continuamos con el relato: “Para decodi-
+ficar el mensaje recibido, miren la tabla donde está codificado el alfabeto”.
+0 1 2 3 4 5 6 7 8 9 10 11 12 13
+A B C D E F G H I J K L M
+14 15 16 17 18 19 20 21 22 23 24 25 26 27
+N Ñ O P Q R S T U V W X Y Z
+Codificación de las letras del alfabeto usando números decimales
+1 0 0 0 1 P
+0 0 1 0 1 E
+1 0 0 1 1 R
+0 0 1 0 0 D
+0 1 0 0 1 I
+0 0 1 0 0 D
+1 0 0 0 0 O
+0 0 0 0 0
+0 0 1 0 1 E
+0 1 1 1 0 N
+0 0 0 0 0
+0 0 1 0 1 E
+0 1 1 0 0 L
+0 0 0 0 0
+1 0 0 1 1 R
+0 1 0 0 1 Í
+1 0 0 0 0 O Codificación de la frase “perdido 
+en el río” con números binarios
+Pedimos a los estudiantes que decodi-
+fiquen el mensaje recibido. Al hacerlo 
+descubrirán que el montañista se 
+encuentra perdido en el río.
+
+===== PAGINA 215 =====
+216
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 2S D 2
+Al final de la ficha de los estudiantes, incluimos una rúbrica para que los alumnos sepan 
+qué estaremos evaluando y qué criterios utilizaremos.
+RÚBRICAS
+CIERRE
+A modo de cierre, comentamos a los alumnos que el código morse fue uno de los primeros usados para 
+la comunicación a distancia. Es el que se usa en el telégrafo. Un telégrafo transmite escritura a distancia 
+(del griego: tele, ‘distancia’ y grafo, ‘escritura’), de modo semejante a como el teléfono transmite la voz 
+a distancia (del griego: tele y foné, ‘voz’).
+ 
+
+===== PAGINA 216 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  5  }  r e p r e S e n t A c i ó n  D e  l A  i n f o r m A c i ó n
+SD2/Ficha A2
+1.  Como esta cuestión es de vida o muerte, tenés que descifrar el mensaje. Mirá la tabla 
+con el código que usa la máquina para codificar caracteres. 
+Aquí tradujimos el mensaje 
+recibido: el nivel de energía 
+alto está representado con 
+el 1 y el nivel bajo, con el 0. 
+Primero tenés que convertir 
+esas secuencias en un número 
+decimal y, luego, usar este 
+número para descubrir las letras 
+del mensaje codificado. ¿Qué 
+dice el mensaje? ¿Dónde se 
+perdió el montañista? 
+Imaginá que sos guardaparque del Parque Nacional Quebrada 
+del Condorito. Un día te avisan que un montañista que salió 
+a la mañana todavía no ha regresado. Por suerte, llevaba una 
+máquina para enviar mensajes de auxilio en clave, que emite 
+señales mediante dos niveles de energía: alto y bajo. Recibís 
+su mensaje codificado, ¡pero el problema es que no hay 
+computadoras en el parque para interpretarlo! 
+MENSAJES SECRETOS
+REPRESENTACIÓN BINARIA REPRESENTACIÓN 
+DECIMAL MENSAJE
+1 0 0 0 1
+0 0 1 0 1
+1 0 0 1 1
+0 0 1 0 0
+0 1 0 0 1
+0 0 1 0 0
+1 0 0 0 0
+0 0 0 0 0
+0 0 1 0 1
+0 1 1 1 0
+0 0 0 0 0
+0 0 1 0 1
+0 1 1 0 0
+0 0 0 0 0
+1 0 0 1 1
+0 1 0 0 1
+1 0 0 0 0
+0 1 2 3 4 5 6 7 8 9 10 11 12 13
+A B C D E F G H I J K L M
+14 15 16 17 18 19 20 21 22 23 24 25 26 27
+N Ñ O P Q R S T U V W X Y Z
+
+===== PAGINA 217 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  5  }  r e p r e S e n t A c i ó n  D e  l A  i n f o r m A c i ó n
+SD2/Ficha A2
+DE PELÍCULA
+¿Sabías que los nazis usaron mensajes 
+secretos para comunicarse durante 
+la Segunda Guerra Mundial? El 
+matemático inglés Alan T uring creó 
+una máquina capaz de tomar el código 
+elaborado por los alemanes y escribirlo 
+como una tira de ceros y unos. Fue un 
+acontecimiento clave para el triunfo de 
+los aliados en esa guerra.
+Estas son las tareas y la forma de calificar que tu docente 
+considerará para evaluar cómo resolvés la actividad.
+EVALUACIÓN
+CALIFICACIÓN ES NECESARIO 
+TRABAJAR MÁS BUENO-MUY BUENO EXCELENTE
+Planteo del problema El estudiante no 
+comprende cómo se 
+resuelve el problema. 
+El estudiante describe 
+el sistema para descifrar, 
+pero con algunos 
+errores. 
+El estudiante genera 
+un sistema correcto 
+para descifrar y escribir 
+el código. Puede 
+ser usando tablas o 
+relacionando letras con 
+números en una hoja.
+Representación 
+numérica
+El estudiante no puede 
+traducir números 
+binarios en decimales ni 
+decodificar letras. 
+El estudiante puede 
+decodificar algunos 
+números binarios, pero 
+no todos.
+El estudiante puede 
+decodificar todos los 
+números binarios del 
+mensaje correctamente, 
+incluso los espacios en 
+blanco. 
+Apropiación del 
+sistema binario 
+El estudiante no puede 
+explicar en qué consiste 
+un sistema binario.
+El estudiante puede 
+explicar en qué consiste 
+un sistema binario. 
+El estudiante puede 
+imaginar otras 
+situaciones en que se 
+usan codificaciones de 
+dos valores como en el 
+sistema binario. 
+
+===== PAGINA 218 =====
+219
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+OBJETIVOS
+• Presentar una forma de  
+codificar colores.
+• Aplicar los conceptos trabajados  
+en un proyecto de programación. 
+Como cierre del capítulo, proponemos desarrollar un proyecto de 
+programación. Los estudiantes comenzarán revisando conceptos 
+vistos en los capítulos anteriores, tales como eventos, parámetros 
+y condicionales. Luego, resolverán desafíos relacionados con la 
+representación de datos aprendida en este capítulo. La propuesta 
+es que, a lo largo de cinco actividades, puedan crear un juego de 
+preguntas y respuestas.
+TRIVIA DE 
+PREGUNTAS
+Secuencia 
+Didáctica 3
+
+===== PAGINA 219 =====
+220
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 1S D 3
+Actividad 1
+¡Que gire la ruleta!
+ DE A DOS
+OBJETIVOS
+• Poner en práctica el manejo de eventos.
+• Comunicar objetos mediante envíos de 
+mensajes.
+MATERIALES
+Computadora 
+Scratch  
+Proyector (opcional)
+Ficha para estudiantes
+DESARROLLO
+Con el fin de repasar los temas de programación y representación de datos que 
+vimos hasta ahora, construiremos un juego de preguntas y respuestas: una versión 
+simplificada del muy difundido Preguntados. 
+ 
+Portada del juego en línea Preguntados 
+Comenzamos la actividad preguntando a los estudiantes: “¿Conocen algún juego 
+de preguntas y respuestas para el celular o la computadora?”. Dado el éxito de 
+Preguntados, es muy probable que algunos sepan de él. Les contamos que vamos 
+a trabajar en un proyecto en el que ellos mismos harán su propia versión del juego. 
+Consultamos si saben cómo jugarlo. Para explicarles su funcionamiento, una 
+posibilidad es jugarlo en clase o mostrar algún video con un proyector. 
+Si ninguna de las opciones es posible, les contamos en qué consiste. Es un juego 
+de preguntas y respuestas en el que se utiliza una ruleta con colores que se hace 
+girar. Cada color representa un área temática y hay muchas preguntas asociadas a 
+cada una. Se trata de preguntas de opción múltiple, es decir, cada pregunta inclu-
+ye una serie de posibles respuestas, de las cuales solo una es correcta. A modo de 
+ejemplo, pensemos que el rojo podría representar la categoría Deportes, el verde 
+Literatura, el amarillo, Conceptos de programación, etc. Para jugar, se hace girar la 
+ruleta. Cuando frena, hay que responder una pregunta de la categoría correspon-
+diente al color seleccionado. Una de las preguntas asociadas al color rojo podría 
+ser: “¿Que jugador argentino hizo dos goles a Inglaterra en el partido que dispu-
+taron en el Mundial de Fútbol de México en 1986?”. Las opciones de respuesta 
+pueden ser: A. Valdano, B. Borghi, C. Maradona y D. Francescoli. Si se selecciona la 
+alternativa correcta, se suma un punto.
+
+
+===== PAGINA 220 =====
+221
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 1S D 3
+Antes de empezar a trabajar con la computadora, es necesario definir siete categorías de preguntas con 
+los estudiantes. Les pedimos que las copien bajo la primera consigna de la ficha de la actividad.
+A continuación, armamos  la escena. Les contamos que necesitamos cuatro objetos fundamentales: la 
+ruleta, un botón para hacerla girar, una bolilla y el personaje que formula las preguntas. Pedimos a los 
+estudiantes que los elijan y también que seleccionen un escenario para usar de fondo.1 Es importante 
+que la bolilla quede ubicada sobre uno de los colores de la ruleta.
+1 En caso de querer distribuir entre los estudiantes las imágenes que ilustran el manual, pueden descargarse del proyecto disponi-
+ble en https:/ /goo.gl/ftbLpT.
+Propuesta de armado de escena con cuatro objetos: ruleta, botón, bolilla y personaje
+Preguntamos a los estudiantes: “¿Cuándo tiene que girar la ruleta? ¿Cómo la hacen girar?”. Solicitamos  
+que empiecen a programar sus ruletas para que giren cuando se presiona el botón. Damos un tiempo para 
+realizar esta tarea y luego les consultamos si pudieron realizarla con éxito. Lo más probable es que hayan 
+encontrado la instrucción girar ( ) grados, que se encuentra en la categoría Movimiento. Como lo 
+que queremos es que la ruleta empiece a girar cuando se presiona el botón, debemos recordarles en este 
+momento la noción de evento. Un evento es un suceso que genera una reacción del programa. En este 
+caso, queremos que la ruleta responda al evento presionar el botón. Motivamos la exploración del entorno 
+de Scratch en busca de algún bloque que les permita resolver el desafío.
+Luego de unos minutos, preguntamos a los estudiantes si pudieron encontrar algún bloque que les 
+permitiera identificar un clic sobre el botón. Les pedimos que nos digan cómo se llama el bloque y en 
+qué categoría se encuentra. Deberían reconocer que en la categoría Eventos se encuentra el bloque 
+al hacer clic en este objeto. Es muy importante que, al programar el manejo del evento, se 
+encuentre seleccionado el botón en la galería de Objetos.
+
+===== PAGINA 221 =====
+222
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 1S D 3
+CIERRE
+Para cerrar la actividad, hacemos hincapié en que, en este caso, el manejo de un evento disparó el envío 
+de un mensaje y que, a su vez, el mensaje provocó una reacción en otro objeto.
+Les pedimos que terminen el programa para que 
+la ruleta gire cuando se aprieta el botón. Es muy 
+probable que, al tratar de resolver esta tarea, los 
+estudiantes provoquen que gire el botón en lugar 
+de la ruleta. Si eso sucediese, podemos aprovechar 
+para reiterar que las instrucciones hay que dárselas 
+al objeto que queremos que las lleve a cabo. 
+Entonces preguntamos: “Si el manejo del evento lo 
+tienen programado sobre el botón, ¿cómo pueden 
+hacer para que sea la ruleta la que se mueva?”.
+Para que el objeto ruleta gire, tenemos que enviar 
+un mensaje dando aviso de que se ha presionado 
+el botón. Una vez que lo reciba, la ruleta actua-
+rá en consecuencia. En la categoría Eventos se 
+encuentra el bloque enviar [ ]. Allí se puede 
+escribir como argumento el mensaje se presionó el 
+botón de giro. Con esto, cada vez que lo aprete-
+mos, el botón anunciará el evento que se produjo.
+Solo resta indicar qué hará la ruleta al recibir el 
+mensaje. Por ahora nos alcanza con indicarle que 
+gire lo necesario para avanzar un color. Como son 
+siete los colores, avanzamos un séptimo de una 
+vuelta de 360o. 
+al hacer clic en este objeto
+girar grados15
+al hacer clic en este objeto
+enviar
+ se presionó el botón de giro
+al recibir
+ se presionó el botón de giro
+girar grados
+360 7
+Programa que hace girar al botón 
+en lugar de la ruleta
+El botón envía un mensaje anunciando que 
+se lo ha presionado
+La ruleta gira al recibir el mensaje del botón
+
+===== PAGINA 222 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  5  }  r e p r e S e n t A c i ó n  D e  l A  i n f o r m A c i ó n
+SD3/Ficha A1
+1.  Tenemos que decidir las siete categorías donde se incluirán las  
+preguntas y las respuestas. Escribilas acá abajo.
+2.  Elegí los objetos principales: la ruleta, el botón, una bolilla y el personaje que hará las  
+preguntas. Agregá, además, un escenario para el fondo. ¿Qué fondo usaste? ¿Y qué personajes?
+3.  Hacé que la ruleta gire cuando se presione el botón. Por ahora, solo tenés que 
+conseguir que pase de un color al siguiente.
+¿Alguna vez jugaste al Preguntados? Se trata de un juego de preguntas 
+y respuestas que usa una ruleta de colores. Se hace girar la ruleta y, 
+cuando frena, hay que responder la pregunta que toca. ¡Empezá a 
+armar tu propio juego de preguntas y respuestas en Scratch!
+QUE GIRE LA RULETA!
+
+
+===== PAGINA 223 =====
+224
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 2S D 3
+Actividad 2
+Gira la ruleta y… 
+¡no va más!
+  DE A DOS
+OBJETIVO
+• Ejercitar el uso de ciclos.
+MATERIALES
+Computadora
+Scratch 
+Ficha para estudiantes
+DESARROLLO
+Comenzamos haciendo un repaso de la actividad “¡Que gire la ruleta!”. Recapi-
+tulamos el trabajo realizado diciendo: “Empezamos a desarrollar nuestro juego. 
+Elegimos los personajes, el escenario y logramos que nuestra ruleta gire cada vez 
+que presionamos el botón. ¿Cómo lo hicimos?”. Lo conseguimos manejando el 
+evento que se produce al hacer clic sobre el botón. 
+Continuamos señalando que, de la misma manera que necesitamos un evento 
+que identifique que hemos presionado un botón, necesitamos un mensaje que 
+avise a la ruleta que empiece a girar. “Logramos que la ruleta gire, pero me parece 
+que todavía falta algo. ¿Cómo hacemos para que la ruleta gire más tiempo y de 
+manera continua?”. Pedimos a los estudiantes que exploren la herramienta. Luego 
+de unos minutos, preguntamos si pudieron lograrlo. 
+En la categoría Control se encuentra el bloque por siempre, que permite repetir 
+indefinidamente las acciones que nosotros queramos. Podemos arrastrar hasta 
+allí todos los bloques que deseemos. Pedimos a los estudiantes que prueben y 
+vean qué sucede al colocar allí un bloque de giro.
+Preguntamos: “¿Qué sucede ahora?”. Muy probablemente algún estudiante res-
+ponda que la ruleta gira continuamente y nunca se detiene. Esto es así porque ese 
+es el comportamiento que programamos. Señalamos que, en general, el fragmen-
+to de programa que se encuentra dentro de un bloque por siempre se ejecuta 
+indefinidamente. 
+Precisamos que la ruleta se detenga luego de algún tiempo. “¿Se animan a buscar 
+alguna instrucción que provoque que la ruleta gire pasando por los colores una 
+cierta cantidad de veces y luego pare?”.
+por siempre
+girar grados
+360 7
+al recibir
+ se presionó el botón de giro
+La ruleta gira indefinidamente
+
+
+===== PAGINA 224 =====
+225
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 2S D 3
+Luego de unos minutos, preguntamos a los 
+estudiantes si pudieron lograr la tarea planteada. 
+Si alguno lo logró y se anima a explicarlo a sus 
+compañeros, le pedimos que lo haga. Alternativa-
+mente, lo podemos contar de la siguiente manera: 
+“Necesitamos que nuestra ruleta gire cambiando 
+de color varias veces. Precisamos un ciclo, pero no 
+uno que funcione para siempre. Queremos que se 
+repita una cantidad de veces y luego frene”. Den-
+tro de la categoría Control encontramos el bloque 
+repetir ( ). A diferencia de por siempre, se 
+ejecuta una cantidad finita de veces. Por defecto 
+viene con el número diez como argumento, pero 
+podemos cambiarlo a gusto. Combinando este 
+bloque con girar ( ) grados conseguimos 
+que la ruleta gire varias veces antes de detenerse.
+Preguntamos a los estudiantes: “¿Qué pasa ahora 
+cuando se presiona el botón de la ruleta?”. Guia-
+mos a los estudiantes a que indiquen que la ruleta 
+gira demasiado rápido. Los invitamos a explorar la 
+herramienta para encontrar alguna forma de que 
+la ruleta gire más despacio. Les damos un tiempo 
+y luego les indicamos que, para que los giros sean 
+más pausados, podemos usar el bloque esperar 
+( ) segundos cada vez que la ruleta cambia 
+de color. El valor usado como argumento define la 
+duración de la pausa. En el ejemplo, una décima 
+de segundo.  
+CIERRE
+Ref﻿lexionamos con los estudiantes sobre los distintos ciclos usados en la actividad. Mientras uno provo-
+ca la repetición indefinida de una serie de instrucciones, el otro solo lo hace un número finito de veces.
+repetir 10
+girar grados
+360 7
+al recibir
+ se presionó el botón de giro
+La ruleta gira 10 veces
+al recibir
+ se presionó el botón de giro
+repetir 10
+girar grados
+360 7
+esperar segundos0.1
+La ruleta gira haciendo una 
+pausa entre color y color
+
+===== PAGINA 225 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  5  }  r e p r e S e n t A c i ó n  D e  l A  i n f o r m A c i ó n
+SD3/Ficha A2
+¡Seguimos desarrollando nuestro juego de preguntas y 
+respuestas! Ya tenemos nuestro personaje, manejamos el 
+evento del botón y mandamos un mensaje a la ruleta. 
+Abrí Scratch y seguí las consignas.
+GIRA LA RULETA Y...
+NO VA MÁS!
+1. Usá un bloque para que la ruleta gire sin parar. ¿Cómo lo hiciste?  
+2. ¿Cómo podemos hacer para que la ruleta gire algunas veces y luego pare?  
+Investigalo en Scratch. 
+3.  ¡La ruleta gira tan rápido que marea! Buscá una manera de que la ruleta vaya más lento 
+para disfrutar de su movimiento. ¿Qué bloque usaste?
+
+
+===== PAGINA 226 =====
+227
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 3S D 3
+Actividad 3
+Agregamos 
+un poco de azar
+DE A DOS
+OBJETIVOS
+• Introducir la noción de aleatoriedad.
+• Enviar mensajes para dar a conocer el 
+estado de un programa.
+MATERIALES
+Computadora
+Scratch
+Proyector (opcional)
+Ficha para estudiantes
+DESARROLLO
+En general, cuando giramos una ruleta no sabemos de antemano cuál será el 
+resultado. Este depende de factores tales como la fuerza a la que se la hace girar, 
+el instante en el que se lanza la bola, etc. A diferencia de una ruleta normal, la 
+ruleta que los estudiantes programaron hasta el momento siempre rota sobre 
+su eje la misma cantidad de grados. Es decir que, antes de presionar el botón, 
+podemos calcular cuál será el siguiente color seleccionado. En la primera parte de 
+esta actividad usaremos números aleatorios para producir un comportamiento 
+más parecido al de las ruletas reales. Luego, nos ocuparemos de notificar cuándo 
+se detiene la ruleta, lo que significa que un nuevo color ha sido seleccionado.
+Podemos comenzar la actividad proyectando un video que muestre cómo gira una 
+ruleta. Si no se cuenta con un proyector, se puede pedir a los estudiantes que lo 
+observen ejecutando la aplicación Preguntados en sus dispositivos móviles. “¿En 
+qué se diferencia esta ruleta de la que estamos desarrollando?”. Guiamos la discu-
+sión de forma tal de concluir que, a diferencia de lo que sucede en el juego original, 
+en el nuestro la ruleta gira siempre la misma cantidad de grados. 
+Preguntamos: “¿Cómo podemos modificar el programa para que nuestra ruleta 
+no gire siempre la misma cantidad de veces cada vez que presionamos el botón?”. 
+Damos unos minutos para que los estudiantes exploren Scratch y luego pregun-
+tamos si lograron resolver el desafío. Puede ser que alguien proponga cambiar 
+el valor del argumento del bloque repetir ( ). Compartimos con los demás 
+estudiantes esta propuesta y preguntamos: “¿Conseguimos de este modo que 
+cada vez que presionemos el botón la ruleta varíe la cantidad de veces que se 
+produce un cambio de color?”. No, lo único que logramos fue que la cantidad de 
+veces sea otra, pero sigue siendo fija. Siguiendo esta lógica, deberíamos cambiar 
+el argumento cada vez que apretamos el botón. Y aun así, en cada oportunidad 
+sabríamos de antemano cuál sería el próximo color seleccionado. 
+Preguntamos a la clase “¿Conocen algún juego de mesa en el que intervenga el 
+azar?”. Luego, proponemos un ejemplo: “Piensen qué pasa cuando jugamos con 
+un dado. Cuando lo tiramos, ¿siempre se repite el mismo número o va cambian-
+do? ¿Qué números les pueden tocar al dar vuelta el cubilete? ¿Cuál es el menor 
+número que puede salir? ¿Y el mayor?”.
+
+
+===== PAGINA 227 =====
+228
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 3S D 3
+Cuando tiramos un dado, nunca sabemos con exactitud qué saldrá. Pero sí sabemos que los números 
+posibles están entre 1 y 6. Les pedimos a los estudiantes que exploren el entorno de Scratch y busquen un 
+bloque que les permita reproducir lo que sucede al tirar un dado. Es esperable que descubran la instrucción 
+número al azar entre ( ) y ( ) de la categoría Operadores, cuyos parámetros permiten indicar 
+los límites inferior y superior del rango del cual se seleccionará un número entero al azar. 
+Ahora, en lugar de elegir un número específico de 
+repeticiones, podemos generar un número alea-
+torio entre un mínimo y un máximo. Proponemos 
+a los estudiantes que utilicen este bloque en sus 
+producciones. Es esperable que arriben a una 
+solución que use números al azar entre 1 y 10, que 
+son los valores por defecto para los argumentos.
+al recibir
+ se presionó el botón de giro
+repetir
+ 101número al azar entre y
+girar grados
+360  7
+esperar segundos0.1
+al recibir
+ se presionó el botón de giro
+repetir
+ 141número al azar entre y
+girar grados
+360  7
+esperar segundos0.1
+Si bien la solución es correcta, al hacer girar la ru-
+leta no todos los colores tendrán la misma proba-
+bilidad de ser seleccionados. Esto se debe a que 
+tenemos 7 colores diferentes y estamos eligiendo 
+números entre 1 y 10. Por ejemplo, si se selecciona 
+el número 1, el color resultante será el mismo que 
+si se selecciona el 8. Lo mismo sucede con el 2 y el 
+9 y con el 3 y el 10. Sin embargo, hay solo un valor 
+que hará que se seleccione cada uno del resto de 
+los colores. Para que la elección sea equiprobable 
+hay que usar como segundo argumento un valor 
+que sea múltiplo de 7; por ejemplo, 14.
+La ruleta gira una cantidad de veces al azar
+T odos los colores tienen la misma 
+probabilidad de ser seleccionados
+
+===== PAGINA 228 =====
+229
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 3S D 3
+Preguntamos a la clase: “¿Cuándo queda 
+efectivamente seleccionado un nuevo color?”. 
+Una vez que la ruleta frena. “¿Se les ocurre cómo 
+indicar que la ruleta se ha detenido?”. Es un buen 
+momento para recuperar la noción de comunica-
+ción entre objetos mediante el envío de mensajes. 
+En este caso, enviaremos el mensaje se detuvo la 
+ruleta, que será interceptado por la bolilla para 
+reconocer el nuevo color. De esto último nos ocu-
+paremos en la próxima actividad.
+al recibir
+ se presionó el botón de giro
+repetir
+ 141número al azar entre y
+girar grados
+360 7
+esperar segundos0.1
+enviar
+ se detuvo ruleta
+CIERRE
+Como cierre, comentamos que el uso de números al azar es muy común en el universo de la computa-
+ción. Muchas veces se tiene que simular un proceso con un final incierto, para lo cual este tipo de nú-
+meros es muy útil. Por último, podemos comentar que muchos teóricos de la computación se interesan 
+y estudian los fenómenos aleatorios. Este tema es, sin dudas, un nexo con otras disciplinas como, por 
+ejemplo, la Física.
+La ruleta avisa que se ha detenido
+
+===== PAGINA 229 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  5  }  r e p r e S e n t A c i ó n  D e  D At o S
+SD3/Ficha A3
+Las ruletas se usan en juegos de azar, y nuestra trivia no es una excepción. 
+¡Vamos a transformar nuestro juego en un auténtico juego de azar!
+AGREGAMOS UN POCO DE AZAR
+1. ¿Cómo hacemos para que la ruleta no gire siempre la misma cantidad de veces? Explorá 
+Scracht y buscá cómo hacer para que la ruleta gire una cantidad de veces diferente 
+cada vez que presionamos el botón. ¿Qué bloque usaste? 
+2. Ahora, programá la ruleta para que envíe un mensaje cada vez que se detiene.  
+Este mensaje, más adelante, será interceptado por la bolilla para avisar qué color salió. 
+¿Qué mensaje enviaste?
+
+
+===== PAGINA 230 =====
+231
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 4S D 3
+Actividad 4
+Identificamos 
+el color elegido
+  DE A DOS
+OBJETIVOS
+• Presentar la codificación de colores 
+RGB.
+• Ejercitar el uso de mensajes para 
+comunicar objetos. 
+MATERIALES
+Computadora
+Scratch
+Ficha para estudiantes
+DESARROLLO
+Iniciamos esta actividad preguntando: “¿Alguna vez mezclaron témperas para 
+crear nuevos colores? El rojo, el amarillo y el azul son los colores primarios; si los 
+mezclamos, podemos formar otros colores. ¿Qué pasa si mezclamos rojo y azul? 
+¿Y rojo con amarillo?”. 
+Explicamos que los colores que vemos en las pantallas también se basan en la 
+mezcla de tres colores. El punto de partida es una pantalla negra que va adqui-
+riendo color a través de luces. Cada píxel (menor unidad homogénea en color que 
+forma parte de una imagen digital) se compone de tres luces minúsculas: una roja, 
+una verde y una azul. A este conjunto de colores se los llama RGB por sus siglas en 
+inglés: Red (rojo), Green (verde) y Blue (azul). Al aumentar y disminuir la cantidad 
+de luz que emite cada una de estas luces, se puede formar un colosal número de 
+colores. Estas mezclas se denominan aditivas. 
+¿Qué tiene que ver todo esto con nuestro 
+juego de preguntas? Recapitulamos la 
+actividad anterior y señalamos que, una 
+vez que la ruleta se detiene, la bolilla 
+queda apoyada sobre un color específico. 
+Ahora tenemos que incorporar una nueva 
+característica a nuestro programa. La 
+bolilla tendrá que indicar el color seleccio-
+nado mandando un mensaje, que poste-
+riormente usará el personaje animador 
+para hacer la siguiente pregunta. En el 
+camino, aprenderemos la codificación de 
+colores RGB.
+Algunos bloques de la categoría Sensores son útiles para explorar la relación de los 
+objetos con su entorno. Hay uno que, en este caso, será de gran ayuda: ¿tocando 
+el color [ ]?. Al usarlo debemos indicar un color como argumento. 
+Este bloque representa la expresión el objeto está en contacto con alguna superficie 
+del color. La condición será cierta en algunas oportunidades y falsa en otras. El ca-
+mino más sencillo para seleccionar un color como argumento consiste en hacer clic 
+sobre el cuadrado de del bloque ¿tocando el color [ ]?, lo que transforma 
+el puntero del ratón en una pequeña mano con el dedo índice extendido. Entonces, 
+al seleccionar un punto de la pantalla, el color del punto será incorporado como 
+argumento del bloque.
+
+===== PAGINA 231 =====
+232
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 4S D 3
+Sin embargo, nosotros vamos a usar esta actividad como excusa para presentar la codificación RGB, 
+con el propósito de conocer una forma de representar colores. RGB usa números en el rango de 0 a 
+255 para indicar la intensidad de cada una de las tres luces que componen un píxel, con lo que usare-
+mos 8 bits para cada color (con 8 dígitos binarios pueden representarse 256 valores distintos). A los 
+grupos de 8 bits se los conoce como bytes. Si el byte correspondiente a la luz roja es 0, significa que 
+está completamente apagada. Si es 255, completamente encendida. En el caso de nuestro juego, el 
+verde de la ruleta está representado en RGB por los números (36, 201, 104); el amarillo por (250, 221, 
+65); el naranja por (250, 148, 65); el rojo por (243, 43, 54): el rosado por (243, 77, 175); el lila por (142, 
+69, 184) y el azul por (44, 120, 199). Estos valores son adecuados si se están usando las imágenes 
+provistas en este manual. Si no fuera así, deben adaptarse a los colores de la imagen usada para la 
+ruleta.
+El bloque ¿tocando el color [ ]? admite como argumento un número, cuyo valor se usa 
+para representar un color en particular. Los 3 bytes utilizados para codificar un color en RGB pueden 
+escribirse como un solo número de la siguiente manera: para indicar a la computadora que el rojo se 
+corresponde con el byte a la izquierda de los tres, debemos multiplicar el valor de rojo por 216. De esta 
+manera, indicamos que hay otros 16 bits a su derecha que corresponden a los bytes del verde y del 
+azul. 216 es 65.536. De forma similar indicaremos que el verde es el byte del medio y diremos que tiene 
+8 bits a su derecha, reservados para la componente azul. Para esto debemos multiplicar el valor del 
+verde por 28, que da 256. Finalmente, el byte del azul no lo tenemos que multiplicar por ningún factor, 
+pues es el que está a la derecha. Para terminar sumaremos el rojo, más el verde, más el azul. Por 
+ejemplo, para representar el naranja cuya codificación RGB es (250, 148, 65), usamos el número que 
+resulta de la cuenta 250 × 65536 + 148 × 256 + 65. No hace falta que lo calculemos, pues la compu-
+tadora lo hará por nosotros.1 
+1 Al igual que en la mayoría de los lenguajes de programación, el símbolo utilizado para identificar la operación de multiplicación es * y no ×.
+Selección de un color para ¿tocando el color [ ]?
+¿tocando el color ?
+¿tocando el color ?
+? ?
+250 256 65148* + +*65536
+
+===== PAGINA 232 =====
+233
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 4S D 3
+CIERRE
+Comentamos con los estudiantes que, esencialmente, una codificación consiste en utilizar una cosa 
+para denotar otra. En esta actividad, usamos tríos de números para representar colores.
+Una vez que construimos la expresión numérica de cada color, podemos incorporar a nuestro programa 
+el mensaje que envía la bolilla cuando la ruleta se detiene. Por el modo en que diseñamos el programa, 
+la bolilla siempre termina tocando un único color. Una posible solución se exhibe a continuación.
+Porción del programa que produce que la bolilla avise el color seleccionado una vez que se detiene la ruleta
+al recibir
+ se detuvo la ruleta
+si entonces
+enviar
+ color rosa seleccionado
+¿tocando el color ?
+? ?
+243 256 17577* + +*65536
+si entonces
+enviar
+ color verde seleccionado
+¿tocando el color ?
+? ?
+36 256 104201* + +*65536
+si entonces
+enviar
+ color azul seleccionado
+¿tocando el color ?
+? ?
+44 256 199120* + +*65536
+si entonces
+enviar
+ color rojo seleccionado
+¿tocando el color ?
+? ?
+243 256 5443* + +*65536
+si entonces
+enviar
+ color naranja seleccionado
+¿tocando el color ?
+? ?
+250 256 65148* + +*65536
+si entonces
+enviar
+ color amarillo seleccionado
+¿tocando el color ?
+? ?
+250 256 65221* + +*65536
+si entonces
+enviar
+ color violeta seleccionado
+¿tocando el color ?
+? ?
+142 256 18469* + +*65536
+
+
+===== PAGINA 233 =====
+nombre y apellido:
+CURSO: FECHA:
+2. Formulá, con ayuda de tu docente, cada código RGB de los colores de la ruleta con un único 
+número. ¿Qué cuenta tuviste que hacer?
+ 
+3.  Buscá en Scratch los bloques que hacen falta para comparar un número que refleja un código 
+RGB y el color que está tocando la bolilla. ¿Qué bloques usaste? ¿En qué categoría están?
+{  c a p í t u l o  5  }  r e p r e S e n t A c i ó n  D e  l A  i n f o r m A c i ó n
+SD3/Ficha A4
+¡Hoy vamos a jugar con la representación de colores! 
+Mirá la rueda de colores con los píxeles RGB. 
+Montones de colores se consiguen regulando la 
+intensidad de las luces roja, azul y verde combinadas. 
+Por ejemplo, un color naranja fuerte se representará 
+como (222, 102, 36). Es decir, se requiere mucho rojo, 
+bastante verde y algo de azul. 
+IDENTIFICAMOS EL COLOR ELEGIDO
+1.  Usando cualquier programa de edición de imágenes1  
+conseguí las representaciones en RGB de los 7 colores  
+de la ruleta de nuestra trivia de preguntas y copialos acá abajo. 
+ 
+1 Se puede usar, por ejemplo, la que se encuentra disponible en https:/ /goo.gl/ JKqJNb.
+4.  Según el color detectado, enviá un mensaje 
+que indique el color seleccionado. ¿Qué dice tu 
+mensaje?
+Cuando la luz roja está completamente prendida 
+y las demás están apagadas se representa como 
+(255, 0, 0). De forma similar, el verde se representa 
+con (0, 255, 0) y el azul con (0, 0, 255). El amarillo 
+se consigue prendiendo completamente las luces 
+roja y verde (255, 255, 0), el fucsia con las luces roja 
+y azul (255, 0, 255) y el cian con las luces verde y 
+azul (0, 255, 255). Si apagamos todas las luces (0, 
+0, 0), tenemos oscuridad total, que es el negro. Y si 
+prendemos todas las luces tenemos saturación de 
+luz, que da blanco (255, 255, 255). 
+CÓMO SE FORMAN LOS COLORES EN RGB
+
+===== PAGINA 234 =====
+235
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 5S D 3
+Actividad 5
+Y finalmente 
+preguntamos
+ DE A DOS
+OBJETIVO
+• Construir un programa que reciba 
+entradas del usuario. 
+MATERIALES
+Computadora 
+Scratch
+Ficha para estudiantes
+DESARROLLO
+Iniciamos la clase preguntando a los estudiantes: “¿Cómo podemos usar los 
+mensajes que envía la bolilla para que el personaje haga las preguntas que que-
+remos?”. Enfatizamos que el personaje conductor tiene que hacer las preguntas 
+de la categoría asociada al color en el cual cae la bolilla . Repartimos la ficha y 
+pedimos a los estudiantes que resuelvan la primera consigna.
+Luego de unos minutos, consultamos si lograron resolver el desafío. Es muy proba-
+ble que no hayan podido, pues implica incorporar el uso de un nuevo bloque. 
+Para resolver el desafío hace falta usar una instrucción que permita que el personaje 
+principal haga las preguntas. En la categoría Apariencia podemos encontrar dos blo-
+ques similares. Ambos se utilizan para que los objetos “hablen” como en las historie-
+tas. El bloque decir [ ] por ( ) segundos tiene dos parámetros. El primero 
+indica el texto que dirá el personaje y el segundo durante cuánto tiempo hablará. 
+Por su lado, decir [ ] recibe solo el texto. ¿Por cuánto tiempo se mostrará el 
+diálogo en este caso? Les pedimos a los estudiantes que prueben los bloques para 
+descubrir que, en este caso, el globito con el texto no desaparece más de la pantalla. 
+Como queremos que el personaje sea quien haga las preguntas, debemos 
+programarlo para que realice esa tarea. Recordemos la actividad del principio de 
+este proyecto sobre el armado de las categorías con sus respectivas preguntas y 
+respuestas. Les pedimos a los estudiantes que las recuperen y las usen adecuada-
+mente para que, cuando el personaje principal reciba un mensaje que indica que 
+un nuevo color ha sido seleccionado, haga una pregunta. 
+Una vez presentada la pregunta, el personaje principal debe dar opciones y aguardar 
+la respuesta del jugador. El bloque preguntar [ ] y esperar sirve para este 
+propósito. Este bloque muestra el texto provisto como argumento y bloquea la eje-
+cución del programa hasta que el usuario ingrese un texto y presione  return. Una vez 
+que esto sucede, el valor ingresado queda almacenado en el bloque respuesta. 
+Bloques para que los personajes "hablen"
+Bloques para hacer una pregunta y recuperar la respuesta
+decir
+ por segundos
+ decir
+preguntar
+ y esperar
+ respuesta
+
+===== PAGINA 235 =====
+236
+{  c a p í t u l o  5  }  r e p r e s e n ta c i ó n  d e  d at o s
+A 5S D 3
+A continuación se muestra un ejemplo en el que asociamos el color amarillo a una categoría hipotética 
+de preguntas que llamamos Representación de datos. 
+Los estudiantes deben entregar su juego terminado. Se sugiere hacer un intercambio de juegos entre los 
+grupos. Se plantean dos tipos de evaluaciones: evaluación entre pares y evaluación del docente junto 
+con el grupo. 
+Al final de la ficha de los estudiantes, incluimos una rúbrica para que los alumnos sepan 
+qué estaremos evaluando y qué criterios utilizaremos.
+RÚBRICAS
+CIERRE
+Una vez terminada la actividad, hemos completado una versión del juego Preguntados. Remarcar que 
+en esta última actividad escribieron por primera vez un programa que espera el ingreso de información 
+por parte del usuario.
+El personaje pregunta y aguarda una respuesta
+al recibir
+ color amarillo seleccionado
+si
+si no
+entonces
+=
+decir
+ por segundos
+preguntar
+ y esperar
+respuesta
+decir
+ por segundos
+decir
+ por segundos
+
+
+===== PAGINA 236 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  5  }  r e p r e S e n t A c i ó n  D e  l A  i n f o r m A c i ó n
+SD3/Ficha A5
+Y FINALMENTE 
+PREGUNTAMOS
+Estamos muy cerca de terminar el juego. 
+Los desafíos que quedan por resolver son los siguientes. 
+1.  ¿Cómo podemos usar los mensajes que envía la bolilla para que el personaje 
+principal pregunte lo que queremos? ¡A programar! 
+2. El último desafío es mostrar el juego a un grupo de compañeros o a tu docente para 
+probarlo. Tu docente o tus compañeros tienen que completar las frases que vas a 
+encontrar a continuación. Cada grupo debe escribir una breve valoración del juego 
+de otro grupo completando las siguientes oraciones:
+a. Lo que más me gustó del juego fue: 
+b. Lo que más me sorprendió del juego fue:
+c. Le recomiendo al grupo que mejore su juego haciendo las siguientes tareas:
+
+
+===== PAGINA 237 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  5  }  r e p r e S e n t A c i ó n  D e  l A  i n f o r m A c i ó n
+SD3/Ficha A5
+Estas son las tareas y la forma de calificar que tu docente 
+considerará para evaluar cómo resolvés las actividades.. 
+EVALUACIÓN
+CALIFICACIÓN ES NECESARIO 
+TRABAJAR MÁS BUENO-MUY BUENO EXCELENTE
+Conceptos Los estudiantes no 
+han logrado usar las 
+nociones de ciclo, 
+parámetro, evento, etc. 
+para desarrollar el juego.
+Los estudiantes han 
+logrado usar, con 
+algunos errores, las 
+nociones de ciclo, 
+parámetro, evento, etc. 
+para desarrollar el juego. 
+Los estudiantes han 
+logrado usar las 
+nociones de ciclo, 
+parámetro, evento, etc. 
+para desarrollar el juego.
+Tareas realizadas Los estudiantes no 
+revisaron su juego. 
+Los estudiantes han 
+revisado y mejorado su 
+juego pocas veces o no 
+han podido resolver los 
+problemas observados. 
+Los estudiantes han 
+revisado y mejorado 
+su juego varias veces y 
+han logrado proponer 
+soluciones que pueden 
+servir para otras 
+situaciones. 
+Actitud hacia el 
+aprendizaje
+Los estudiantes no 
+trabajaron en grupo 
+ni pudieron crear algo 
+propio. 
+Los estudiantes 
+trabajaron en grupo, 
+pero ante alguna 
+dificultad no pudieron 
+resolverla. 
+Los estudiantes 
+trabajaron en grupo, 
+se hicieron preguntas, 
+compartieron sus ideas 
+y pudieron crear algo 
+propio. 
+
+===== PAGINA 238 =====
+06
+SECUENCIA DIDÁCTICA 1 
+LES QUITAMOS EL VELO A LAS  
+COMPUTADORAS 
+¿Qué sabemos sobre las computadoras? 
+Computadoras por todos lados 
+Las partes de toda computadora 
+Una nueva máquina 
+¡A conocer la computadora por dentro!
+Los capítulos anteriores trataban acerca del software, 
+es decir, los programas que una computadora 
+ejecuta al realizar tareas. Este capítulo se centra en 
+el hardware o, lo que es lo mismo, los componentes 
+físicos que forman las computadoras. Sin el hardware, 
+el software no existiría. 
+En este capítulo se proponen actividades que 
+acercarán a los estudiantes a una nueva idea de 
+computadora y les permitirán descubrir sus elementos 
+tangibles.
+LA 
+COMPUTADORA

@@ -1,0 +1,1099 @@
+
+
+===== PAGINA 239 =====
+240
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+OBJETIVOS
+• Arribar a una nueva idea de computadora.
+• Conocer las partes fundamentales de una 
+computadora.
+• Reconocer la importancia de las 
+computadoras en la vida cotidiana.
+Las computadoras están muy presentes en nuestra vida cotidiana: 
+controlan una gran variedad de artefactos, tanto en la industria como 
+en el hogar. La mayoría de nosotros tiene una idea sobre qué es una 
+computadora. 
+Aunque este objeto suele asociarse con dispositivos de escritorio 
+y portátiles, en la actualidad las computadoras son una parte 
+fundamental de todo tipo de aparatos: desde teléfonos celulares 
+hasta televisores, pasando por automóviles, semáforos, cámaras 
+fotográficas, de video, etc. Casi cualquier máquina automática que 
+realice una tarea compleja está montada sobre una computadora. 
+Entonces, ¿qué es una computadora? Para responder esta pregunta, 
+se propone una serie de actividades con un doble objetivo: por un 
+lado, aproximarnos a una noción de computadora y, por el otro, 
+pensar las computadoras como el corazón de la tecnología moderna. 
+LES QUITAMOS EL VELO
+A LAS COMPUTADORAS
+Secuencia 
+Didáctica 1
+
+===== PAGINA 240 =====
+241
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+DESARROLLO
+En la vida cotidiana, usamos la palabra computadora para referirnos a los dis-
+positivos de escritorio o portátiles. Esta idea se originó en la década del ochenta, 
+debido en gran medida a la masificación de las computadoras de uso personal. 
+Sin embargo, deja afuera muchísimos dispositivos computacionales con los que 
+interactuamos diariamente.
+En esta actividad analizaremos distintas dimensiones de las computadoras: sus 
+momentos de vigencia, la tecnología involucrada, los tamaños y su modo de 
+interacción con los humanos. Veremos que, al considerar cada una de estas carac-
+terísticas, siempre podemos encontrar ejemplos que difieren de nuestra represen-
+tación habitual de lo que es una computadora. 
+Actividad 1
+¿Qué sabemos sobre 
+las computadoras?
+GRUPAL (3)
+OBJETIVOS
+• Analizar diferentes tipos de 
+computadoras.
+• Conceptualizar la idea de computadora.
+MATERIALES
+Computadora
+Conexión a Internet
+Ficha para estudiantes
+S D 1 A 1
+Comenzamos la actividad con una discusión grupal para averiguar qué saben los 
+estudiantes sobre computadoras. “¿Qué computadoras conocen?”. Se espera 
+que mencionen las computadoras de escritorio y las portátiles. En caso de que 
+no surjan otros ejemplos, les explicamos que también un celular, una tablet y un 
+televisor moderno tienen computadoras en su interior. 
+Para comenzar a desarmar el preconcepto de computadora, podemos preguntar-
+les a los estudiantes: “¿Qué diferencia hay entre un teléfono celular y una tablet?”. 
+Guiamos la discusión de forma tal de llegar a estas conclusiones: por un lado, tie-
+nen distinta forma (las tablets suelen ser más grandes); por otro, tienen funciones 
+distintas (por ejemplo, con uno podemos hacer llamadas y con la otra, no).
+Continuamos preguntando: “¿Qué tienen en común los dispositivos menciona-
+dos?”. T odos ellos reciben información, la procesan y generan un resultado con el 
+
+
+===== PAGINA 241 =====
+242
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+A 1S D 1
+que luego hacen algo. Por ejemplo, un televisor recibe una señal digital de cable, la decodifica y repro-
+duce imágenes que muestra por la pantalla y sonidos que emite por los parlantes. Un teléfono celular 
+recibe una señal con datos que viaja por el aire, la decodifica, identifica de qué se trata y, por ejemplo, 
+nos avisa que llegó un nuevo mensaje de alguna red de mensajería instantánea.
+A partir de los ejemplos mencionados, proponemos a los estudiantes que piensen algunas diferencias con 
+relación a cómo interactuamos con estos dispositivos. Podemos formular preguntas tales como: “¿T odos 
+tienen pantalla táctil? ¿Con cuáles usamos un ratón?”. Es esperable que durante la discusión se indique , 
+por ejemplo, que algunos tienen parlantes y otros no, o que solo algunos tienen teclado. Si no se mencionó, 
+se puede comentar que un router hogareño wifi es una computadora que no tiene ni teclado ni pantalla. 
+Explicamos a los estudiantes que existen componentes que no siempre están presentes en una compu-
+tadora. Cada uno cumple una función específica. Por ejemplo, los parlantes emiten sonidos; el teclado, 
+cada vez que se presiona una tecla, envía una señal que le permite a la computadora reconocer la tecla 
+oprimida. A los componentes de este tipo se los denomina genéricamente periféricos.
+En este punto contamos con todo lo necesario para elaborar con los alumnos una primera noción de 
+computadora. Una posible definición surge pensando en lo que una computadora hace. Discutimos con la 
+clase a partir de la siguiente pregunta: “¿Qué hace una computadora?”. Como se dijo antes, una computa-
+dora recibe información, la procesa y produce nueva información. 
+Módulos de memoria de una computadora
+Continuamos preguntando: “¿Qué tiene, en líneas generales, toda computadora?”. En principio, tiene al 
+menos una entrada por la que obtiene la información y una salida por la que expresa un resultado. 
+Además, las computadoras tienen una memoria, que es el componente físico donde se almacena la 
+información. 
+Una computadora recibe información, la procesa y produce nueva información.
+¿QUÉ HACE UNA COMPUTADORA?
+
+===== PAGINA 242 =====
+243
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+A 1S D 1
+Finalmente, una computadora tiene un núcleo 
+principal, que habitualmente se conoce como 
+unidad central de procesamiento o CPU por sus 
+siglas en inglés (Central Processing Unit). Se trata 
+de un grupo de circuitos electrónicos integrados 
+que constituyen el soporte físico para que todo 
+el software pueda realmente ejecutarse1, una 
+instrucción tras otra. 
+Repartimos las fichas a los estudiantes y los alentamos a que busquen información en Internet que 
+les permita resolver las consignas. La actividad propone buscar computadoras de acuerdo a distintas 
+características, como su tamaño o la época en que existieron. A continuación, a modo de referencia, se 
+reproduce la historia de un grupo de computadoras que permiten completar las tablas de la actividad. 
+Computadora Z3, 1941
+Computadora Mark 1, 1944
+Unidad central de procesamiento
+La primera consigna propone la búsqueda de 
+información sobre tres computadoras anteriores 
+a 1960. La computadora Z3 se creó en Alemania 
+en 1941 y fue la primera máquina programable 
+completamente automática. 
+La Mark 1, de 1944, fue la primera computadora 
+electromecánica. Construida por IBM en Estados 
+Unidos, en 1947 se instaló en Harvard. En el mismo 
+país, en 1946, se construyó la famosa computa-
+dora ENIAC, acrónimo de Electronic Numerical 
+Integrator And Computer (Computador e Integra-
+dor Numérico Electrónico, en español). Fue una de 
+las primeras computadoras que se denominan de 
+propósito general. Inicialmente ENIAC se diseñó 
+para calcular la trayectoria de proyectiles y realizar 
+operaciones matemáticas para el ejército de 
+Estados Unidos. 
+1 Las características de la memoria y la unidad central de procesamiento se abordan en el próximo capítulo.
+
+===== PAGINA 243 =====
+244
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+A 1S D 1
+La segunda consigna plantea encontrar dos com-
+putadoras de dos siglos distintos. Por ejemplo, la 
+máquina analítica diseñada por el  matemático 
+británico Charles Babbage entre 1833 y 1842. Ba-
+bbage intentó construir la máquina, pero no logró 
+completarla. Se trataba de una computadora 
+mecánica programable. La entrada se imprimía 
+sobre tarjetas perforables, la salida se producía 
+usando un mecanismo que combinaba un equipo 
+de dibujo y una campana, y el funcionamiento 
+se montaba sobre una estructura similar a un 
+telar. Años más tarde, la matemática y escritora 
+Augusta Ada King escribió varios programas para 
+la máquina diseñada por Babbage. Augusta era 
+británica e hija del poeta Lord Byron y de  la ma-
+temática y poeta Anne Isabella Noel Byron. Se la 
+considera la primera programadora de la historia 
+y se la conoce como Ada Lovelace. 
+Otro posible ejemplar para completar la consigna 
+es la computadora electromecánica Z1. Fue dise-
+ñada entre 1935 y 1938, en Alemania. Se proponía 
+como solución al problema de tener que hacer 
+muchas veces cálculos complejos muy similares. 
+La máquina fue diseñada por dos ingenieros, John 
+Presper Eckert y John William Mauchly, pero seis 
+mujeres se ocuparon de programarla: Betty Snyder 
+Holberton, Jean Jennings Bartik, Ruth Lichterman 
+T eitelbaum, Kathleen McNulty Mauchly Antonelli, 
+Frances Bilas Spence y Marlyn Wescoff Meltzer. 
+El gobierno de los Estados Unidos contrató a este grupo de matemáticas para escribir los pro-
+gramas en sistema binario y realizar las diferentes operaciones que, en ese entonces, implicaban 
+conectar y desconectar cables. Ellas no solo lograron el cometido, sino que modificaron la evolu-
+ción de la programación entre los años cuarenta y cincuenta. Recién en 1997 se reconocieron sus 
+méritos y se las incluyó en el Salón de la Fama de Women in T echnology International. Además, 
+en 2014 se realizó el documental The Computers, basado en su historia.
+LAS PROGRAMADORAS DE ENIAC
+Máquina analítica de Babbage
+Computadora electromecánica Z1, 1935-1938
+
+===== PAGINA 244 =====
+245
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+A 1S D 1
+Basaba su funcionamiento en el uso de relés eléctricos. Sin embargo, nunca llegó a funcionar de forma 
+adecuada. Se cree que se destruyó durante un bombardeo aliado sobre Berlín, en 1943, dos años antes de 
+la finalización de la Segunda Guerra Mundial.
+La tercera consigna plantea encontrar tres computadoras cuyos mecanismos de entrada y salida no 
+estén dados por un teclado alfanumérico y una pantalla. Se les puede sugerir a los estudiantes que 
+piensen en artefactos que les resulten familiares y averigüen si son computadoras o las contienen. Un 
+ejemplo son los routers wifi, dispositivos que se usan para brindar acceso a una red informática en 
+forma inalámbrica. No suelen incluir teclado ni pantalla. Por otro lado, un sintetizador musical es una 
+computadora cuya entrada son las teclas de un piano y su salida es un parlante. Por último, los autos 
+modernos vienen equipados con una computadora que oficia de “cerebro” del automóvil; valiéndose de 
+información proveniente de sensores, controla aspectos tales como la inyección de nafta en el motor 
+y la climatización del interior del coche. En algunos casos, además, almacena las preferencias de cada 
+conductor que usa el vehículo, lo que permite acomodar en forma automática la posición de los espejos 
+retrovisores, la altura del asiento, etc.
+La cuarta y última consigna pide encontrar computadoras actuales de distintos tamaños. Para resolver-
+la, se puede recurrir a dispositivos tales como reproductores de música, teléfonos celulares, computado-
+ras portátiles y de escritorio. 
+CIERRE
+Como cierre de la actividad pasamos en limpio lo trabajado: una computadora es un dispositivo que 
+recibe información, la procesa y genera nueva información; usa una memoria para almacenar los datos 
+y una unidad central de procesamiento para realizar cálculos. Muchos artefactos que forman parte de 
+nuestra vida cotidiana son computadoras, a pesar de que no solemos pensar en ellos como tales.
+
+
+===== PAGINA 245 =====
+nombre y apellido:
+CURSO: FECHA:
+Sabemos que existen las portátiles y las de escritorio, pero el 
+mundo de las computadoras es mucho más amplio ¡Conocelo!  
+ QUÉ SABEMOS SOBRE 
+LAS COMPUTADORAS?
+{  c a p í t u l o  6  }  l A  c o m p u t A D o r A
+SD1/Ficha A1
+?
+Buscá información en la web para completar las tablas que se 
+muestran a continuación. Además, podés imprimir y pegar imágenes, 
+y luego compartirlas con tus compañeros. 
+1. Vamos a viajar por el tiempo. Buscá tres computadoras anteriores a 1960.
+AÑO NOMBRE DE LA COMPUTADORA IMAGEN
+¿Sabías que en 1961 llegó a nuestro país la primera computadora con propósito cientí-
+fico? Se trataba de una Ferranti Mercury a la que se apodó Clementina. Esta computa-
+dora funcionaba a válvulas y medía 18 m de largo. La entrada de datos y programas se 
+hacía a través de cintas de papel perforadas. ¡La memoria era de solo 1K! 
+Hoy, estas características nos parecen obsoletas, pero en esa época Clementina 
+fue el sostén de un proyecto de vanguardia dedicado a la investigación, la docen-
+cia y la oferta de servicios que fue pionero en nuestro país y la región.
+CLEMENTINA
+
+
+===== PAGINA 246 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  6  }  l A  c o m p u t A D o r A
+SD1/Ficha A1
+2. Encontrá y compará dos computadoras de distintos siglos. ¡Sí, siglos! No debería 
+costarte demasiado encontrar alguna del siglo XIX.
+3. Encontrá tres computadoras que no tengan un teclado alfanumérico como entrada ni 
+una pantalla como salida. Sugerencia: pensá si algunos aparatos de uso habitual son o 
+no computadoras.
+SIGLO COMPUTADORA CARACTERÍSTICAS IMAGEN
+COMPUTADORA ENTRADA SALIDA IMAGEN
+
+===== PAGINA 247 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  6  }  l A  c o m p u t A D o r A
+SD1/Ficha A1
+4. Otro punto importante es el tamaño. Buscá computadoras de hoy en día que tengan 
+diferentes tamaños. Completá los nombres en la siguiente tabla:
+LA COMPUTADORA 
+CABE EN
+NOMBRE DE LA 
+COMPUTADORA IMAGEN
+Billetera
+Bolsillo
+Bolso
+Mesa
+
+===== PAGINA 248 =====
+249
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+A 2S D 1
+DESARROLLO
+En esta actividad pondremos en evidencia que las computadoras están muy pre-
+sentes a nuestro alrededor. El recorrido nos ayudará a descubrir que, por ejemplo, 
+los semáforos, las máquinas expendedoras de boletos y las impresoras se montan 
+sobre una computadora. A la vez, también mostraremos máquinas en las que no 
+intervienen dispositivos digitales. Con esto buscamos arrojar luz sobre la frontera 
+entre aquello a lo que llamamos computadora y aquello que no lo es.
+Vamos a usar una serie de preguntas para despejar dudas sobre si un artefacto 
+puede o no ser una computadora o contenerla. Comenzamos pidiéndoles a los 
+estudiantes que comparen una radio analógica con un reproductor de audio 
+digital. Para el análisis, utilizamos una pregunta que copiamos en el pizarrón: El 
+artefacto ¿recibe entradas?
+En una radio se indica una frecuencia usando una perilla. El reproductor mp3 tiene 
+una serie de botones que permiten operarlo.  Por lo tanto, se verifica que ambos reci-
+ben entradas. Preguntamos a continuación: “¿Genera salidas?”. Los dos producen 
+señales sonoras. Uno las envía a un cable y el otro las emite usando un parlante. 
+Nuevamente, para ambos dispositivos la respuesta es afirmativa. 
+Indagamos luego: “¿T oma decisiones? ¿Realiza cálculos? ¿Almacena infor-
+mación?” .  En el caso de la radio, la respuesta es negativa: recibe una señal que 
+captura con la antena y usa circuitos electrónicos y el parlante para transformarla 
+en ondas sonoras; sin embargo, realiza toda esa transformación sin que en ningún 
+momento se digitalice la información, es decir, sin que se la traduzca a un sistema 
+binario. T ampoco realiza cálculos ni almacena información. Esto da la pauta de 
+que en este caso no se trata de una computadora. 
+Actividad 2
+Computadoras
+por todos lados
+DE A DOS
+OBJETIVOS
+• Explicitar que muchos artefactos de 
+uso cotidiano se montan sobre una 
+computadora.
+• Analizar ejemplos de máquinas que no 
+son computadoras.
+MATERIALES
+Computadora
+Conexión a Internet
+Ficha para estudiantes
+
+
+===== PAGINA 249 =====
+250
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+A 2S D 1
+Por el contrario, el reproductor de música guarda archivos en formato mp3, que luego son procesados 
+por un software de reproducción de audio, que permite acciones tales como navegar entre canciones y 
+armar y almacenar listas de reproducción. En este caso, sí estamos frente a un artefacto que es contro-
+lado por una computadora.
+Invitamos a los estudiantes a ubicarse en parejas para pensar las respuestas a las preguntas plantea-
+das  considerando una aspiradora antigua y una inteligente. Deberían llegar a la conclusión de que la 
+primera no es una computadora y sospechar que la segunda sí lo es. Con este ejemplo ilustramos que 
+hay aparatos que a veces tienen computadoras y otras veces, no. Para seguir trabajando sobre estas 
+ideas se puede realizar un análisis similar sobre automóviles o ascensores, por ejemplo.
+Una vez finalizado el análisis de los artefactos, hacemos hincapié en que las tres preguntas con las que 
+se trabajó constituyen un test para descartar que un artefacto sea una computadora. T oda vez que una 
+de esas preguntas se conteste negativamente, estamos ante un objeto que no es una computadora. 
+Repartimos la ficha de la actividad y les pedimos a los estudiantes que completen las consignas. A 
+continuación se muestra una tabla con algunas respuestas posibles. 
+
+===== PAGINA 250 =====
+251
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+A 2S D 1
+CIERRE
+Concluimos subrayando que, en nuestras vidas, las computadoras están mucho más presentes de lo 
+que solemos creer. El uso de computadoras es una tendencia que creció mucho en la última década y se 
+encuentra en plena expansión, cada vez a mayor velocidad.
+TIPO DE 
+APARATO
+¿TOMA DATOS, 
+ACEPTA ENTRADAS, 
+RECIBE ESTÍMULOS? 
+¿A PARTIR DE LOS DATOS 
+DE ENTRADA, TOMA 
+DECISIONES, CALCULA Y/O 
+MEMORIZA ALGO?
+¿GENERA UNA 
+SALIDA O 
+MUEVE 
+ALGUNA 
+COSA?
+¿ES PROBABLE 
+QUE TENGA 
+UNA COM-
+PUTADORA EN 
+SU INTERIOR?
+Órgano 
+eléctrico
+Sí, tiene un teclado. Sí, sintetiza sonidos 
+artificiales, puede 
+memorizar secuencias.
+Sí, activa 
+un parlante 
+(se escucha 
+sonido), 
+prende luces.
+Sí.
+Piano
+ 
+Sí, tiene un teclado. No, no toma decisiones 
+ni memoriza datos.
+Sí, se genera 
+un sonido.
+No.
+Ascensor
+antiguo
+Si, tiene una 
+botonera para 
+indicar el piso de 
+destino.
+No, solo se traslada 
+verticalmente hasta un 
+piso indicado.
+Sí, mueve una 
+estructura de 
+hierro.
+No.
+Ascensor
+moderno
+Sí, tiene una 
+botonera para 
+indicar el piso de 
+destino. También 
+cuenta con un 
+sensor que chequea 
+si puede o no cerrar 
+la puerta. 
+Sí. Por ejemplo, 
+cuando se marcan 
+muchos pisos, hay un 
+programa que organiza 
+cómo se recorren para 
+minimizar, por ejemplo, 
+el tiempo de espera 
+y el consumo 
+de energía.
+Sí, mueve una 
+estructura 
+de hierro. 
+Además, 
+muestra 
+datos en una 
+pantalla.
+Sí.
+Lector de 
+tarjetas del 
+colectivo
+Sí, lee información 
+de una tarjeta sin 
+contacto. 
+Sí, controla que el saldo 
+del pasajero alcance 
+para pagar el boleto.
+Sí, muestra en 
+una pantalla 
+el saldo de la 
+tarjeta.
+Sí.
+
+===== PAGINA 251 =====
+nombre y apellido:
+CURSO: FECHA:
+¡Las computadoras están por todas partes! Cada 
+vez nos rodean más aparatos que contienen una 
+computadora que los hace funcionar. Ahora vas a 
+salir a cazar computadoras.
+COMPUTADORAS 
+POR TODOS LADOS
+{  c a p í t u l o  6  }  l A  c o m p u t A D o r A
+SD1/Ficha A2
+1. Anotá todos los aparatos que encuentres a tu alrededor. Puede ser en la escuela, en tu 
+casa o donde vos quieras. Escribí en la primera columna todos los aparatos que veas. 
+Por ejemplo, un televisor, un lavarropas o un cajero automático.
+2. Para cada uno de los aparatos que elegiste, tenés que 
+responder con sí o no las preguntas de la segunda a la cuarta 
+columna. No olvides justificar cada respuesta.
+3. Le llegó el turno a la última columna. El artefacto, ¿puede 
+contener una computadora?
+PARA QUE TENGAS  
+EN CUENTA
+En la evaluación, la calificación 
+será más alta cuantos más 
+ejemplos de computadora 
+encuentres y cuanto 
+más completas sean tus 
+respuestas.
+TIPO DE 
+APARATO
+¿ACEPTA 
+ENTRADAS? 
+A PARTIR DE LOS DATOS DE 
+ENTRADA, ¿TOMA DECISIONES, 
+CALCULA O MEMORIZA ALGO?
+¿GENERA 
+UNA SALIDA O 
+MUEVE ALGUNA 
+COSA?
+¿ES PROBABLE 
+QUE TENGA UNA 
+COMPUTADORA 
+EN SU INTERIOR?
+
+===== PAGINA 252 =====
+253
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+A 3S D 1
+DESARROLLO
+Un buen ejercicio para seguir aproximándonos a una noción precisa de computa-
+dora consiste en identificar los componentes que todas tienen en común, cual-
+quiera sea su aspecto. En el desarrollo de esta actividad, usamos como ilustración 
+versiones muy simplificadas de un teléfono inteligente, una impresora láser y un 
+cajero automático. Sin embargo, conviene recordar que estos dispositivos son 
+simplemente una excusa para reconocer aquellos elementos indispensables en 
+cualquier computadora.
+Actividad 3
+Las partes de
+toda computadora
+INDIVIDUAL
+OBJETIVO
+• Identificar los componentes que se 
+encuentran presentes en todas las 
+computadoras.
+MATERIALES
+Ficha para estudiantes
+Pantalla
+Pantalla
+Botonera
+Memoria
+Impresora
+Placa de red
+Lector de 
+tarjeta
+Unidad 
+central de 
+procesamiento
+T eclado
+Expendedor 
+de billetes
+Bandeja de 
+entrada de 
+papel
+Bandeja de 
+salida de 
+papel
+Cilindro 
+fotolumínico
+Rayo láser
+Memoria
+Unidad 
+central de 
+procesamiento
+T óner
+
+===== PAGINA 253 =====
+254
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+A 3S D 1
+Repartimos la ficha a los estudiantes. Allí van a encontrar las tres computadoras usadas en esta 
+actividad junto con la indicación de sus diferentes partes, tanto internas como externas. En primer lugar 
+deben localizar los componentes comunes a todas ellas.
+Una vez que los alumnos analicen las imágenes, detectarán que en todos los dispositivos hay una 
+unidad central de procesamiento (CPU) y una memoria. Nos detenemos brevemente sobre estos com-
+ponentes. Contamos que la CPU realiza cálculos que le permiten procesar información y que, además, 
+toda esa información se encuentra almacenada en la memoria en todo momento. 
+Es probable que los estudiantes también noten que las tres computadoras tienen una pantalla. En primer 
+lugar, vale la pena aclararles que no todas las computadoras tienen una; por ejemplo, pueden pensar en 
+un típico router wifi, ya mencionado en una actividad anterior. Además, es interesante señalar que las 
+tres pantallas muestran información. Por ejemplo, en la del teléfono vemos íconos de las aplicaciones 
+instaladas, la hora, etc.; en la de la impresora, información sobre el estado del tóner, si hay o no papel en la 
+bandeja de entrada, etc.; y en la del cajero automático, observamos indicaciones para operar el dispositivo, 
+datos de cuentas bancarias, etc. Esto convierte a estas pantallas en dispositivos de salida. Además, en el 
+caso del móvil permite el ingreso de datos. Por ejemplo, un número de teléfono para realizar una llamada; 
+es decir que, en este caso, la pantalla es también un dispositivo de entrada. A los elementos que cumplen 
+ambas funciones se los conoce como dispositivos de entrada y salida.
+Por último, les pedimos que identifiquen en las computadoras otros periféricos, tanto de entrada como 
+de salida, aun cuando sean diferentes en cada una de ellas. Podrían mencionar que el teléfono cuenta 
+con un micrófono y una cámara como entradas y un parlante como salida; que la impresora tiene un 
+teclado como entrada y que el cajero tiene como entrada un teclado y como salidas una impresora de 
+tickets y un dispensador de billetes. 
+Antena Cámara Memoria SIM
+Unidad 
+central de 
+procesamiento
+Dispositivo 
+GPS
+Cámara
+Parlante
+Pantalla 
+táctil
+Micrófono
+Memoria
+Batería
+
+===== PAGINA 254 =====
+255
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+A 3S D 1
+CIERRE
+Cerramos la actividad contándoles a los estudiantes que, en 1945, el matemático de origen austrohúngaro 
+John von Neumann presentó un modelo teórico de computadora que fue la base de las computadoras 
+modernas. Von Neumann proponía como partes constitutivas de una computadora una unidad central de 
+procesamiento, una memoria y dispositivos de entrada y de salida.
+1 Del inglés, Universal Serial Bus.
+Continuamos la actividad con la siguiente re-
+flexión, que va más allá de las computadoras que 
+ilustran la actividad. Actualmente, es habitual 
+que las computadoras portátiles y de escritorio 
+posean puertos USB1 que permiten conectar una 
+gran cantidad de periféricos; por ejemplo, rato-
+nes, discos externos, teléfonos, etc. Por lo tanto, 
+estos puertos nos posibilitan ampliar los disposi-
+tivos de entrada y salida que interactúan con la 
+computadora. La versatilidad provista por estos 
+canales se basa en una técnica conocida como 
+enchufar y usar (plug and play, en inglés).
+Unidad 
+central de 
+procesamiento
++
+Memoria
+DISPOSITIVOS DE ENTRADA DISPOSITIVOS DE SALIDA
+T eclado
+Cámara
+Ratón
+Monitor
+Parlantes
+Puerto USB
+
+
+===== PAGINA 255 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  6  }  l A  c o m p u t A D o r A
+SD1/Ficha A3
+LAS PARTES DE
+TODA COMPUTADORA
+1. Observá las partes de un teléfono inteligente, una impresora láser y un cajero 
+automático. ¿Qué componentes tienen en común?
+¿Sabés qué tienen en común un teléfono inteligente, una impresora láser 
+y un cajero automático? Son computadoras. Tienen diferentes diseños, 
+pero hay componentes que se repiten en los tres. 
+Antena Cámara Memoria SIM
+Unidad 
+central de 
+procesamiento
+Dispositivo 
+GPS
+Cámara
+Parlante
+Pantalla 
+táctil
+Micrófono
+Memoria
+Pantalla
+Botonera
+Pantalla
+Memoria
+Impresora
+Placa de red
+Lector de 
+tarjeta
+Unidad 
+central de 
+procesamiento
+T eclado
+Expendedor 
+de billetes
+Bandeja 
+de entrada 
+de papel
+Bandeja de 
+salida de 
+papel
+Cilindro 
+fotolumínico
+Rayo láser
+Memoria
+Unidad 
+central de 
+procesamiento
+T óner
+Batería
+
+===== PAGINA 256 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  6  }  l A  c o m p u t A D o r A
+SD1/Ficha A3
+John von Neumann fue un matemático austrohúngaro que, en el año 1945, presentó un modelo teórico de computadora 
+que fue la base de todas las computadoras modernas. Von Neumann proponía como partes constitutivas de una compu-
+tadora una unidad central de procesamiento, una memoria y dispositivos de entrada y salida.
+JOHN VON NEUMANN
+2. En cada uno de ellos, ¿cómo se hace para ingresar información?  
+¿Qué tipo de salida producen?
+DISPOSITIVO  ¿CÓMO SE INGRESA 
+INFORMACIÓN?
+¿QUÉ TIPO DE SALIDA 
+PRODUCEN? 
+Teléfono inteligente
+Cajero automático
+Impresora láser
+DISPOSITIVOS DE ENTRADA DISPOSITIVOS DE SALIDA
+Unidad 
+central de 
+procesamiento
++
+Memoria
+T eclado
+Cámara
+Ratón
+Monitor
+Parlantes
+
+
+===== PAGINA 257 =====
+258
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+A 4S D 1
+DESARROLLO
+Es el turno de los estudiantes para proponer y diseñar una computadora. Comen-
+zarán identificando un problema y proponiendo una solución computacional para 
+resolverlo.
+Comenzamos diciéndoles a los estudiantes: “¡Que levante la mano aquel al que 
+le guste lavar los platos!”. Es esperable que nadie en la clase lo haga. “Muy bien, 
+parece que en esta clase son todos perezosos. Por suerte existe el lavavajillas, una 
+máquina que se encarga de lavar los platos por nosotros. T ambién limpia vasos y 
+sartenes. ¿Pueden creerlo? Una verdadera maravilla”. Repartimos la ficha a los es-
+tudiantes y los alentamos a que completen las consignas. En la primera se les pide 
+que describan un problema que podría resolverse con la ayuda de una computa-
+dora. Les planteamos la pregunta: “¿Qué problema querrían resolver?”. Es impor-
+tante que todos se tomen un tiempo para identificar claramente el problema que 
+se propongan resolver. En el caso del ejemplo con el que iniciamos la actividad, el 
+problema consiste en conseguir limpiar la vajilla sin hacer demasiado esfuerzo. 
+La segunda consigna consiste en describir la arquitectura de un artefacto que 
+solucione el problema identificado. La propuesta debe involucrar el uso de algún 
+tipo de dispositivo computacional. Siguiendo con el lavavajillas, podemos decirles 
+a los estudiantes que es un artefacto parecido a un lavarropas, pero que en 
+lugar de ropa lava platos, vasos, cubiertos y otros utensilios de cocina. Tiene una 
+computadora a la que es posible dar instrucciones a través de algunos botones. Se 
+puede, por ejemplo, elegir entre distintos tipos de programas de lavado o seleccio-
+nar la temperatura del agua. Además, tiene una pantalla que muestra diferen-
+tes mensajes, como la hora o el tiempo restante para completar un lavado. El 
+artefacto está conectado a una canilla y a un desagüe, por los que circula el agua 
+que usa. Cuenta también con pequeños recipientes en los que se deposita jabón 
+en polvo, abrillantador y sal antisarro. Por último, tiene una puerta delantera que 
+Actividad 4
+Una nueva máquina
+GRUPAL (4)
+OBJETIVOS
+• Diseñar una computadora de propósito 
+específico.
+• Mostrar que la tecnología interviene en 
+la vida de las personas.
+• Ejercitar el pensamiento creativo.
+• Practicar la exposición de ideas.
+MATERIALES
+Cartulina
+Fibrones de colores
+Ficha para estudiantes
+abrimos y cerramos para poner y sacar los 
+platos, entre otras cosas.
+La tercera consigna indaga sobre las en-
+tradas y salidas del dispositivo. Continuan-
+do con el ejemplo, como entrada usamos 
+botones, que nos dan la posibilidad, por 
+ejemplo, de indicar si se hará un lavado de 
+media carga. Hay entradas menos eviden-
+tes, como los sensores de control de nivel 
+de agua y de temperatura. La salida se 
+
+===== PAGINA 258 =====
+259
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+muestra en la pantalla, donde aparece cierta información, como los niveles de consumo de energía o la 
+tasa de platos lavados por semana. Algunos artefactos tienen además pequeñas luces led, que se usan 
+como alarmas ante alguna situación anómala como, por ejemplo, el suministro insuficiente de agua. 
+T anto la pantalla como los ledes son salidas.
+La cuarta consigna pide identificar el procesamiento que realiza la computadora dentro del artefacto dise-
+ñado. Para el electrodoméstico que venimos analizando, alcanza con respuestas tales como: “La compu-
+tadora ejecuta un programa que, de acuerdo a lo ingresado por el usuario, realiza uno u otro lavado”. 
+La quinta y última consigna invita a los estudiantes a diseñar un afiche que exponga cómo es y qué 
+hace la máquina inventada. La actividad concluye con la exposición de cada grupo sobre la computa-
+dora que diseñaron.
+A 4S D 1
+CIERRE
+Comentamos a los estudiantes que, en la industria 
+pesada, suelen usarse computadoras de propósito 
+específico que se conocen como PLC (las siglas 
+se deben a su nombre en inglés, Programmable 
+Logic Controller). Son muy usadas en las indus-
+trias mecánica y electrónica, donde controlan el 
+comportamiento de distintos tipos de máquinas. 
+Podemos mencionar como ejemplo una computa-
+dora que controla el brazo que coloca los corchos 
+en las botellas de vino.
+Para la clase siguiente, les pedimos que traigan de 
+sus casas computadoras portátiles, de escritorio o 
+routers en desuso.
+Al final de la ficha de los estudiantes, incluimos una rúbrica para que los alumnos sepan qué estare-
+mos evaluando y qué criterios utilizaremos. 
+RÚBRICAS
+OTRAS OPCIONES
+Los estudiantes también pueden traer 
+artefactos en desuso que contengan com-
+putadoras tales como teléfonos celulares, 
+reproductores de DVD, decodificadores para 
+televisión por cable, entre otros. Debido a 
+la gran diversidad de modelos existentes, 
+recomendamos averiguar marcas, años y 
+demás datos relevantes de cada uno de 
+los artefactos. De este modo, es posible 
+encontrar la forma adecuada de abrirlos y 
+prever los elementos que los estudiantes 
+encontrarán en su interior (ver ficha 5 de la 
+próxima actividad). 
+
+===== PAGINA 259 =====
+nombre y apellido:
+CURSO: FECHA:
+Cada ser de este planeta tiene algún problema. Más grande o 
+más pequeño, algún problema siempre hay. En algunos casos, 
+existen dispositivos específicos para resolverlos. Pensemos, por 
+ejemplo, en el lavavajillas. Para poder satisfacer nuestros deseos 
+de descansar más, contamos con un artefacto que lava los 
+platos por nosotros. ¡Es sensacional! 
+{  c a p í t u l o  6  }  l A  c o m p u t A D o r A
+SD1/Ficha A4
+UNA NUEVA MÁQUINA
+1. Seleccioná a un ser humano del planeta Tierra y contá qué problema necesita resolver.
+2.  Diseñá un artefacto que lo ayude a resolver el problema. Tiene que contener una computadora. 
+Indicá qué hace el artefacto y qué partes tiene.
+3. ¿Qué información recibe como entrada? Y la salida, ¿cómo la expresa?
+4.  ¿Procesa los datos de entrada para producir una salida? ¿Qué hace?
+
+===== PAGINA 260 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  6  }  l A  c o m p u t A D o r A
+SD1/Ficha A4
+5.  Armá un afiche de la computadora que diseñaste en los puntos anteriores,  que 
+muestre cómo es e indique sus partes. El propósito es que, cuando lo vea un amigo 
+tuyo, pueda entender sin problemas de qué se trata tu invento.
+EVALUACIÓN
+Estas son las tareas y la forma de calificar que tu docente considerará para evaluar 
+cómo resolvés las actividades.
+CALIFICACIÓN ES NECESARIO 
+TRABAJAR MÁS BUENO-MUY BUENO EXCELENTE
+Planteo de un problema 
+y su solución
+La computación 
+escasamente puede 
+contribuir a resolver el 
+problema identificado por 
+el estudiante.
+El estudiante identifica 
+un problema, aunque la 
+solución computacional 
+que diseña no lo resuelve 
+del todo. 
+El estudiante identifica 
+claramente el problema 
+y plantea un diseño 
+computacional adecuado 
+para resolverlo.
+Componentes de la 
+máquina  inventada
+No se identifica la mayoría 
+de los componentes del 
+dispositivo diseñado: 
+unidad central de 
+procesamiento, memoria, 
+periféricos de entrada y de 
+salida específicos.
+Se identifica la mayoría de 
+los componentes: unidad 
+central de procesamiento, 
+memoria, periféricos de 
+entrada y de salida.
+Se identifican todos 
+los componentes del 
+dispositivo diseñado. La 
+máquina tiene un diseño 
+simple y efectivo.
+
+===== PAGINA 261 =====
+262
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+DESARROLLO
+En esta actividad buscamos que los estudiantes pierdan el miedo a desarmar com-
+putadoras. Al finalizar la clase anterior, se les pidió que trajeran artefactos en desuso 
+que contuvieran computadoras tales como computadoras de escritorio, portátiles y 
+routers wifi (que son los artefactos con los que ilustramos la actividad). 
+A los estudiantes que trajeron teléfonos celulares, reproductores de DVD, deco-
+dificadores para televisión por cable, entre otros posibles artefactos en desuso, 
+debemos entregarles material complementario al de la ficha. Este debería incluir 
+las instrucciones para desarmar esos artefactos y una ilustración que muestre las 
+partes que encontrarán en su interior. 
+En algún momento, las computadoras presentadas en esta actividad quedarán 
+obsoletas. Este parece ser el destino de todos los dispositivos tecnológicos. Si ya 
+hubieran caducado, sugerimos adaptar la actividad usando otros dispositivos.
+Les pedimos a los estudiantes que formen grupos de 4 integrantes y les reparti-
+mos la ficha. Allí se presentan instrucciones para desarmar una computadora de 
+escritorio, una portátil y un router wifi. A continuación se describe cómo trabajar 
+con cada uno de estos artefactos.
+Computadora de escritorio
+Si la computadora está encendida, la apagamos. Luego, la desenchufamos del toma-
+corriente. Desconectamos todos los cables que se encuentran enchufados al gabinete, 
+tanto en el frente como en la parte posterior. De este modo, habremos desconectado 
+todos los periféricos, lo cual facilitará la inspección del interior de la máquina.
+Desatornillamos la tapa del gabinete y la retiramos. Allí nos encontraremos con 
+la placa madre, sobre la cual está montada la unidad central de procesamiento. 
+Además, cuenta con muescas en las que se encastran los módulos de memoria. 
+Las computadoras están equipadas con un ventilador que disipa el exceso de 
+calor que genera el funcionamiento del equipo. Presumiblemente, también nos 
+encontraremos con un disco rígido. Es el soporte físico en el que guardamos toda 
+nuestra información en forma persistente, es decir que ahí se conserva aun cuan-
+do apaguemos el equipo. Otro componente habitual es la placa de red. Permite 
+que el dispositivo se conecte con otras computadoras. Finalmente, se encuentra 
+la fuente, que suministra energía eléctrica a todos los componentes internos de la 
+computadora.
+A 5S D 1
+Actividad 5
+¡A conocer la 
+computadora 
+por dentro!
+GRUPAL (4)
+OBJETIVOS
+• Conocer las computadoras por dentro.
+• Identificar los componentes de una 
+computadora. 
+MATERIALES
+Computadoras de escritorio
+Computadoras portátiles
+Routers wifi
+Destornilladores
+Ficha para estudiantes
+
+===== PAGINA 262 =====
+263
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+A 5S D 1
+Computadora portátil
+En este caso no podremos observar todos los componentes. Desarmar la carcasa de estos dispositivos 
+suele ser complicado, además de que se necesitan destornilladores adecuados. Comenzamos corrobo-
+rando que se encuentre apagada y desenchufamos todos los cables, incluyendo los de suministro de 
+energía y los de los periféricos. La cerramos y, con mucho cuidado, la damos vuelta y la apoyamos sobre 
+alguna superficie limpia. En algunos modelos es posible retirar las tapas que protegen los módulos de 
+memoria y el disco rígido. 
+Fuente y ventilador
+Unidad central de 
+procesamiento (CPU)
+Disco rígido
+Disco rígido
+Placa madre 
+(contiene la CPU 
+y los módulos de 
+memoria)Módulo de 
+memoria
+Módulos de 
+memoria
+Placa de red
+
+===== PAGINA 263 =====
+264
+{  c a p í t u l o  6  }  l a  c o m p u ta d o r a
+A 5S D 1
+Router wifi
+Un router wifi es una computadora que no posee teclado ni monitor. Tiene puertos de entrada y salida 
+para conexiones alámbricas y antenas para enviar y recibir información de modo inalámbrico. Además, 
+estos dispositivos suelen venir equipados con monitores lumínicos. Se trata de pequeños ledes que brin-
+dan información sobre aspectos tales como la transferencia de datos y el estado de la conexión a la red. 
+Comenzamos retirando todos los cables que tenga enchufados. Si es posible, desenroscamos las 
+antenas. Si la carcasa se encuentra cerrada con tornillos, los retiramos. Algunos modelos simplemente 
+se separan tirando del frente. Una vez abierto el artefacto, retiramos la placa principal. Allí encontrare-
+mos la unidad central de procesamiento. En algunos ejemplares, la memoria está integrada a la unidad 
+central de procesamiento; si este es el caso, no podremos observarla.
+CIERRE
+A modo de cierre, les comentamos a los estudiantes que en una computadora, en general, los distintos 
+componentes pueden encastrarse solo en pocos lugares. Por lo tanto, si los desconectamos para obser-
+varlos de cerca, luego será sencillo volver a dejar todo en su lugar. 
+Unidad 
+central de 
+procesamiento 
+(CPU)
+Memoria
+Puertos de red
+Ledes
+Ledes
+Antena
+Al final de la ficha de los estudiantes, incluimos una rúbrica para que los alumnos sepan qué estare-
+mos evaluando y qué criterios utilizaremos. 
+RÚBRICAS
+
+===== PAGINA 264 =====
+nombre y apellido:
+CURSO: FECHA:
+¡En esta actividad vamos a desarmar computadoras! Podés 
+trabajar con una de escritorio, una portátil o un router wifi, así 
+como con un teléfono celular, un reproductor de DVD o un 
+decodificador de televisión por cable. Seguí las instrucciones y 
+animate a explorar estos artefactos por dentro. Así también se 
+aprende. Al final de la ficha hay unas imágenes que te pueden 
+servir de referencia.
+ A CONOCER LA 
+COMPUTADORA 
+POR DENTRO!
+{  c a p í t u l o  6  }  l A  c o m p u t A D o r A
+SD1/Ficha A5
+!
+COMPUTADORA DE ESCRITORIO
+1) Apagá la computadora.
+4) Sacá la carcasa del gabinete. Si 
+sacaste tornillos, guardalos en algún 
+lugar para no perderlos.
+2) Desenchufá el cable 
+de alimentación eléctrica.
+3) Desenchufá el resto de los cables, 
+si los hay.
+5) Buscá la memoria y el la unidad central 
+de procesamiento.
+6) Volvé a armar la computadora.
+¿Identificás otros elementos? ¿Un disco rígido? 
+¿La placa madre? ¿Alguna otra cosa?
+
+
+===== PAGINA 265 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  6  }  l A  c o m p u t A D o r A
+SD1/Ficha A5
+ROUTER WIFI
+COMPUTADORA PORTÁTIL
+1) Apagá la computadora, 
+cerrá la tapa y desenchufá el 
+cargador.
+2) Dala vuelta y sacale la 
+batería.
+3) Desatornillá las tapitas. T e 
+vas a encontrar con el disco 
+rígido y la memoria.
+4) Armala de nuevo.
+1) Desenchufalo y sacale el cable.
+4) Sacá la placa principal.
+2) Sacá todos los tornillos. Puede haber 
+alguno debajo de las patas de goma.
+5) Buscá la unidad central de 
+procesamiento y la memoria.
+3) Desconectá las antenas.
+6) Volvé a armarlo.
+
+
+===== PAGINA 266 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  6  }  l A  c o m p u t A D o r A
+SD1/Ficha A5
+Componentes de una computadora de escritorio
+Componentes de una laptop
+Fuente y ventilador
+Unidad central de 
+procesamiento (CPU)
+Disco rígido
+Placa madre
+(contiene la CPU 
+y los módulos de memoria)
+Módulo 
+de memoria
+Placa de red
+Disco rígido
+Módulos de 
+memoria
+
+===== PAGINA 267 =====
+nombre y apellido:
+CURSO: FECHA:
+{  c a p í t u l o  6  }  l A  c o m p u t A D o r A
+SD1/Ficha A5
+EVALUACIÓN
+Estas son las tareas y la forma de calificar que tu docente considerará para evaluar 
+cómo resolvés las actividades.
+CALIFICACIÓN ES NECESARIO 
+TRABAJAR MÁS BUENO-MUY BUENO EXCELENTE
+Reconocimiento de los 
+componentes de la máquina
+El estudiante reconoce 
+pocos componentes de 
+la computadora. 
+El estudiante 
+reconoce la mayoría 
+de los componentes 
+mencionados en la ficha.
+El estudiante reconoce 
+todos los componentes 
+de la computadora.
+Componentes de un router wifi.
+Unidad 
+central de 
+procesamiento 
+(CPU)
+Memoria
+Puertos de red
+Ledes
+Ledes
+Antena
+
+===== PAGINA 268 =====
+07
+SECUENCIA DIDÁCTICA 1 
+ LA MEMORIA 
+¿Qué hay en la memoria? 
+La memoria rápida y la memoria 
+grande
+SECUENCIA DIDÁCTICA 2 
+EL FUNCIONAMIENTO INTERNO 
+La máquina criptográfica
+La materia prima con la que trabajan las computadoras 
+es la información. Para que esta sea procesada por 
+un dispositivo computacional es indispensable que 
+exista un componente físico donde representarla. En la 
+primera secuencia didáctica, se propone una serie de 
+actividades que permiten comprender ciertos aspectos 
+del funcionamiento de la memoria. 
+Por su parte, la unidad central de procesamiento (CPU) 
+es el componente de hardware que se encarga 
+de procesar, transformar y producir información. 
+La segunda secuencia didáctica permitirá a los 
+estudiantes observar cómo la CPU interactúa con otros 
+componentes de una computadora para ejecutar las 
+instrucciones de un programa.
+LA MEMORIA Y LA 
+UNIDAD CENTRAL DE 
+PROCESAMIENTO
