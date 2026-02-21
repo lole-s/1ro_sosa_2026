@@ -21,6 +21,9 @@ Manual del estudiante y manual docente (edición y versión compartible).
 - `02_planificaciones/`
 Planificación anual 2026 en formato inspección, formato de referencia y proyecto integrador asociado.
 
+- `03_clases_proyector/`
+Clases listas para proyectar en aula, organizadas por eje y con actividad explícita (consigna, pasos, tiempos y evidencia).
+
 ## Convención de uso
 - Los archivos `.md` son la base editable.
 - Los archivos `.docx` son versiones para compartir/imprimir.
