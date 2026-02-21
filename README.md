@@ -5,6 +5,7 @@ Repositorio del espacio curricular **Sistemas Operativos y Software de Aplicacio
 ## Contenido versionado principal
 - `SOSA_2026/01_manuales/`
 - `SOSA_2026/02_planificaciones/`
-
+- `SOSA_2026/03_clases_proyector/`
+  
 ## Nota
 Material histórico y complementario permanece como referencia local y no forma parte del contenido principal versionado.
